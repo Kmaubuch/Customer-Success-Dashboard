@@ -1,0 +1,241 @@
+﻿CustomerID,CompanyName,Industry,CompanySize,Country,CustomerSegment,JoinMonth,OnboardingScore
+C0001,Orbit Group (United Kingdom),Technology,Mid-Market,United Kingdom,Growth,3,52
+C0002,Pulse Retail (United States),Technology,Enterprise,United States,Enterprise,24,69
+C0003,Vertex Labs (United Kingdom),Professional Services,Mid-Market,United Kingdom,Growth,14,63
+C0004,Nimbus Retail,Healthcare,Enterprise,United States,Enterprise,14,76
+C0005,Bright Group (Canada),Nonprofit,Enterprise,Canada,Enterprise,19,83
+C0006,Vertex Health (Canada),Finance,Mid-Market,Canada,Growth,2,67
+C0007,Bright Health (United States),Retail,Mid-Market,United States,Growth,12,63
+C0008,Nova Health (United Kingdom),Technology,Mid-Market,United Kingdom,Growth,6,60
+C0009,Apex Partners (United States),Professional Services,Enterprise,United States,Enterprise,22,86
+C0010,Vertex Solutions (Canada),Finance,Small,Canada,SMB,4,78
+C0011,Bright Retail (United States),Professional Services,Mid-Market,United States,Growth,1,86
+C0012,Pulse Group (Canada),Education,Mid-Market,Canada,Growth,17,73
+C0013,Vertex Health (United States),Manufacturing,Small,United States,SMB,9,80
+C0014,Fusion Health (United States),Professional Services,Small,United States,SMB,10,76
+C0015,Orbit Retail (Canada),Technology,Mid-Market,Canada,Growth,24,68
+C0016,Orbit Group (United States),Finance,Small,United States,SMB,20,60
+C0017,Orbit Systems (United States),Finance,Mid-Market,United States,Growth,12,78
+C0018,Summit Systems (United States),Retail,Mid-Market,United States,Growth,10,57
+C0019,Apex Health (United States),Nonprofit,Enterprise,United States,Enterprise,11,90
+C0020,Vertex Dynamics (United States),Technology,Mid-Market,United States,Growth,19,62
+C0021,Pulse Group (United States),Education,Small,United States,SMB,20,66
+C0022,Bright Partners (United States),Technology,Mid-Market,United States,Growth,21,72
+C0023,Nova Systems,Technology,Small,United States,SMB,19,85
+C0024,Apex Dynamics (United States),Healthcare,Small,United States,SMB,8,65
+C0025,Nova Retail (United States),Manufacturing,Small,United States,SMB,8,57
+C0026,Vertex Dynamics (United States) 2,Professional Services,Small,United States,SMB,12,100
+C0027,Summit Works (United States),Manufacturing,Mid-Market,United States,Growth,23,67
+C0028,Summit Group (United Kingdom),Healthcare,Enterprise,United Kingdom,Enterprise,11,76
+C0029,Orbit Dynamics (United States),Healthcare,Mid-Market,United States,Growth,6,89
+C0030,Bright Group (United States),Healthcare,Enterprise,United States,Enterprise,19,68
+C0031,Summit Partners (Canada),Retail,Enterprise,Canada,Enterprise,24,87
+C0032,Pulse Labs,Manufacturing,Small,United Kingdom,SMB,7,76
+C0033,Nimbus Health (United Kingdom),Education,Enterprise,United Kingdom,Enterprise,3,79
+C0034,Vertex Retail (Canada),Manufacturing,Small,Canada,SMB,22,67
+C0035,Fusion Labs (United States),Healthcare,Mid-Market,United States,Growth,1,58
+C0036,Nimbus Works (United States),Professional Services,Small,United States,SMB,3,86
+C0037,Fusion Retail (Canada),Finance,Small,Canada,SMB,8,71
+C0038,Fusion Systems (United States),Healthcare,Small,United States,SMB,4,78
+C0039,Bright Labs (United States),Education,Mid-Market,United States,Growth,11,68
+C0040,Nova Retail (United States) 2,Technology,Small,United States,SMB,18,76
+C0041,Fusion Dynamics (United States),Retail,Mid-Market,United States,Growth,8,70
+C0042,Nimbus Systems (United States),Healthcare,Mid-Market,United States,Growth,23,61
+C0043,Fusion Retail (United States),Education,Enterprise,United States,Enterprise,5,75
+C0044,Apex Works (United States),Professional Services,Small,United States,SMB,12,64
+C0045,Atlas Health (United States),Finance,Mid-Market,United States,Growth,23,94
+C0046,Apex Group (United States),Retail,Mid-Market,United States,Growth,10,54
+C0047,Atlas Works (Canada),Finance,Small,Canada,SMB,21,100
+C0048,Fusion Systems (United Kingdom),Manufacturing,Small,United Kingdom,SMB,2,62
+C0049,Bright Group (United States) 2,Professional Services,Small,United States,SMB,14,58
+C0050,Pulse Solutions (United States),Healthcare,Small,United States,SMB,1,76
+C0051,Atlas Group,Retail,Small,United States,SMB,18,64
+C0052,Fusion Retail (United States) 2,Finance,Small,United States,SMB,2,87
+C0053,Bright Labs (United States) 2,Healthcare,Small,United States,SMB,22,83
+C0054,Apex Dynamics (United Kingdom),Professional Services,Small,United Kingdom,SMB,2,76
+C0055,Nimbus Works (United States) 2,Professional Services,Enterprise,United States,Enterprise,15,76
+C0056,Orbit Partners (United States),Manufacturing,Enterprise,United States,Enterprise,13,75
+C0057,Vertex Retail (United States),Finance,Small,United States,SMB,4,89
+C0058,Apex Health (United States) 2,Retail,Small,United States,SMB,9,61
+C0059,Summit Dynamics (United States),Nonprofit,Enterprise,United States,Enterprise,19,82
+C0060,Nova Health (United States),Technology,Enterprise,United States,Enterprise,21,78
+C0061,Atlas Dynamics (United States),Technology,Small,United States,SMB,13,72
+C0062,Nimbus Systems (United States) 2,Healthcare,Mid-Market,United States,Growth,15,56
+C0063,Nimbus Dynamics,Nonprofit,Enterprise,United States,Enterprise,11,71
+C0064,Bright Partners (United States) 2,Finance,Mid-Market,United States,Growth,23,75
+C0065,Nimbus Group (United States),Manufacturing,Mid-Market,United States,Growth,18,76
+C0066,Nimbus Labs (United States),Manufacturing,Enterprise,United States,Enterprise,12,62
+C0067,Orbit Solutions (Canada),Technology,Small,Canada,SMB,5,82
+C0068,Summit Systems (United States) 2,Technology,Small,United States,SMB,22,70
+C0069,Summit Systems (United States) 3,Healthcare,Enterprise,United States,Enterprise,18,92
+C0070,Orbit Dynamics (United States) 2,Professional Services,Enterprise,United States,Enterprise,14,78
+C0071,Atlas Systems (United States),Technology,Enterprise,United States,Enterprise,7,75
+C0072,Nimbus Works (United States) 3,Manufacturing,Mid-Market,United States,Growth,3,85
+C0073,Summit Solutions,Retail,Mid-Market,United States,Growth,1,77
+C0074,Nimbus Works (United Kingdom),Healthcare,Enterprise,United Kingdom,Enterprise,19,73
+C0075,Orbit Solutions (United States),Healthcare,Enterprise,United States,Enterprise,4,85
+C0076,Atlas Systems (United States) 2,Healthcare,Small,United States,SMB,22,73
+C0077,Nova Works (United States),Professional Services,Mid-Market,United States,Growth,1,80
+C0078,Orbit Works (United Kingdom),Professional Services,Small,United Kingdom,SMB,15,65
+C0079,Atlas Systems (United States) 3,Professional Services,Enterprise,United States,Enterprise,20,77
+C0080,Vertex Systems (United States),Education,Mid-Market,United States,Growth,3,63
+C0081,Nimbus Solutions (United States),Technology,Small,United States,SMB,3,89
+C0082,Vertex Solutions (United States),Healthcare,Mid-Market,United States,Growth,15,70
+C0083,Fusion Group (United States),Finance,Small,United States,SMB,10,65
+C0084,Pulse Health (United States),Technology,Mid-Market,United States,Growth,19,85
+C0085,Fusion Group (United States) 2,Manufacturing,Mid-Market,United States,Growth,11,75
+C0086,Fusion Health (United States) 2,Retail,Mid-Market,United States,Growth,13,72
+C0087,Orbit Systems (United States) 2,Retail,Mid-Market,United States,Growth,10,75
+C0088,Apex Retail (United States),Finance,Mid-Market,United States,Growth,10,67
+C0089,Pulse Group (United States) 2,Education,Small,United States,SMB,9,67
+C0090,Bright Retail (Canada),Technology,Small,Canada,SMB,16,82
+C0091,Nimbus Systems (United States) 3,Manufacturing,Small,United States,SMB,20,72
+C0092,Pulse Works (Canada),Education,Mid-Market,Canada,Growth,23,76
+C0093,Atlas Labs (United States),Education,Small,United States,SMB,21,75
+C0094,Fusion Labs (United States) 2,Retail,Small,United States,SMB,7,53
+C0095,Bright Solutions,Professional Services,Enterprise,United States,Enterprise,18,70
+C0096,Vertex Health (Australia),Retail,Enterprise,Australia,Enterprise,3,82
+C0097,Orbit Solutions (United States) 2,Technology,Mid-Market,United States,Growth,23,71
+C0098,Fusion Dynamics (United States) 2,Manufacturing,Small,United States,SMB,6,80
+C0099,Bright Works (Australia),Manufacturing,Enterprise,Australia,Enterprise,16,92
+C0100,Fusion Systems (United States) 2,Healthcare,Mid-Market,United States,Growth,10,87
+C0101,Apex Systems (United States),Finance,Enterprise,United States,Enterprise,16,84
+C0102,Atlas Works (United States),Manufacturing,Mid-Market,United States,Growth,12,55
+C0103,Nimbus Solutions (United States) 2,Technology,Mid-Market,United States,Growth,20,74
+C0104,Pulse Solutions (United Kingdom),Manufacturing,Small,United Kingdom,SMB,9,77
+C0105,Pulse Retail (United Kingdom),Professional Services,Mid-Market,United Kingdom,Growth,8,61
+C0106,Fusion Dynamics (United States) 3,Education,Mid-Market,United States,Growth,9,71
+C0107,Bright Partners (United States) 3,Technology,Small,United States,SMB,8,70
+C0108,Vertex Health (United States) 2,Education,Small,United States,SMB,23,71
+C0109,Orbit Dynamics (Australia),Technology,Mid-Market,Australia,Growth,20,84
+C0110,Vertex Works (Australia),Professional Services,Mid-Market,Australia,Growth,19,69
+C0111,Pulse Retail (United States) 2,Healthcare,Mid-Market,United States,Growth,16,74
+C0112,Apex Labs (Canada),Nonprofit,Small,Canada,SMB,24,55
+C0113,Vertex Health (Australia) 2,Technology,Mid-Market,Australia,Growth,21,54
+C0114,Apex Dynamics (United States) 2,Professional Services,Small,United States,SMB,10,65
+C0115,Nova Dynamics (United States),Professional Services,Small,United States,SMB,23,61
+C0116,Summit Works (United Kingdom),Technology,Enterprise,United Kingdom,Enterprise,17,65
+C0117,Atlas Dynamics (United States) 2,Healthcare,Small,United States,SMB,6,72
+C0118,Orbit Solutions (United States) 3,Technology,Small,United States,SMB,13,67
+C0119,Atlas Solutions (United States),Finance,Enterprise,United States,Enterprise,19,73
+C0120,Orbit Labs (United Kingdom),Retail,Small,United Kingdom,SMB,15,60
+C0121,Fusion Solutions (Canada),Retail,Mid-Market,Canada,Growth,13,73
+C0122,Nimbus Partners (Australia),Healthcare,Mid-Market,Australia,Growth,10,59
+C0123,Bright Labs (United States) 3,Retail,Enterprise,United States,Enterprise,9,94
+C0124,Atlas Retail (United States),Finance,Small,United States,SMB,2,73
+C0125,Pulse Retail (Canada),Education,Enterprise,Canada,Enterprise,13,74
+C0126,Fusion Solutions (United Kingdom),Finance,Small,United Kingdom,SMB,22,66
+C0127,Apex Systems (United States) 2,Manufacturing,Mid-Market,United States,Growth,21,80
+C0128,Pulse Works (United States),Professional Services,Small,United States,SMB,4,75
+C0129,Orbit Group (Australia),Education,Mid-Market,Australia,Growth,15,67
+C0130,Nimbus Group (United States) 2,Manufacturing,Small,United States,SMB,5,67
+C0131,Bright Labs (Australia),Education,Small,Australia,SMB,18,64
+C0132,Nova Labs (United States),Healthcare,Mid-Market,United States,Growth,6,83
+C0133,Orbit Dynamics (United States) 3,Healthcare,Small,United States,SMB,22,62
+C0134,Vertex Works (United States),Retail,Small,United States,SMB,8,79
+C0135,Summit Group (United States),Healthcare,Mid-Market,United States,Growth,1,78
+C0136,Fusion Group (United States) 3,Professional Services,Small,United States,SMB,19,49
+C0137,Fusion Group (United States) 4,Technology,Small,United States,SMB,6,60
+C0138,Nova Dynamics (United States) 2,Technology,Small,United States,SMB,12,70
+C0139,Bright Group (United States) 3,Healthcare,Small,United States,SMB,4,49
+C0140,Apex Works (United Kingdom),Manufacturing,Mid-Market,United Kingdom,Growth,6,72
+C0141,Atlas Health (Canada),Manufacturing,Small,Canada,SMB,24,72
+C0142,Nimbus Works (Australia),Education,Mid-Market,Australia,Growth,23,83
+C0143,Apex Partners (United States) 2,Retail,Enterprise,United States,Enterprise,8,84
+C0144,Nimbus Systems (United States) 4,Healthcare,Small,United States,SMB,8,72
+C0145,Summit Systems (Canada),Technology,Mid-Market,Canada,Growth,20,74
+C0146,Nimbus Group (United States) 3,Healthcare,Small,United States,SMB,15,75
+C0147,Fusion Retail (United States) 3,Nonprofit,Small,United States,SMB,14,80
+C0148,Bright Health (United States) 2,Professional Services,Enterprise,United States,Enterprise,4,67
+C0149,Orbit Systems (United States) 3,Healthcare,Mid-Market,United States,Growth,9,54
+C0150,Orbit Partners (United Kingdom),Manufacturing,Small,United Kingdom,SMB,1,72
+C0151,Nimbus Health (United States),Manufacturing,Small,United States,SMB,13,82
+C0152,Nova Works (United States) 2,Nonprofit,Small,United States,SMB,19,69
+C0153,Atlas Systems (United States) 4,Manufacturing,Small,United States,SMB,19,67
+C0154,Fusion Works (United States),Healthcare,Enterprise,United States,Enterprise,17,92
+C0155,Nimbus Partners (United States),Professional Services,Small,United States,SMB,22,72
+C0156,Fusion Partners (Canada),Manufacturing,Mid-Market,Canada,Growth,10,75
+C0157,Nimbus Labs (United Kingdom),Healthcare,Enterprise,United Kingdom,Enterprise,21,74
+C0158,Atlas Solutions (Australia),Technology,Small,Australia,SMB,5,72
+C0159,Orbit Retail (United States),Professional Services,Small,United States,SMB,9,80
+C0160,Summit Retail (United States),Manufacturing,Enterprise,United States,Enterprise,10,87
+C0161,Orbit Labs (United States),Retail,Small,United States,SMB,8,52
+C0162,Summit Health (Canada),Finance,Small,Canada,SMB,23,72
+C0163,Vertex Systems (United States) 2,Finance,Small,United States,SMB,2,71
+C0164,Atlas Labs (United States) 2,Education,Enterprise,United States,Enterprise,2,59
+C0165,Atlas Labs (Canada),Finance,Small,Canada,SMB,8,74
+C0166,Fusion Health (United States) 3,Nonprofit,Enterprise,United States,Enterprise,24,80
+C0167,Orbit Group (United Kingdom) 2,Manufacturing,Small,United Kingdom,SMB,18,66
+C0168,Pulse Solutions (United Kingdom) 2,Finance,Small,United Kingdom,SMB,4,65
+C0169,Nimbus Labs (United States) 2,Retail,Small,United States,SMB,3,70
+C0170,Summit Health (United Kingdom),Nonprofit,Small,United Kingdom,SMB,5,59
+C0171,Vertex Works (United States) 2,Professional Services,Small,United States,SMB,2,65
+C0172,Nimbus Health (United States) 2,Professional Services,Enterprise,United States,Enterprise,18,83
+C0173,Atlas Health (Australia),Finance,Small,Australia,SMB,2,66
+C0174,Summit Systems (United States) 4,Education,Mid-Market,United States,Growth,13,69
+C0175,Fusion Retail (United States) 4,Healthcare,Enterprise,United States,Enterprise,21,81
+C0176,Bright Dynamics (United States),Finance,Small,United States,SMB,14,80
+C0177,Vertex Partners (United States),Retail,Mid-Market,United States,Growth,24,68
+C0178,Atlas Systems (Canada),Nonprofit,Enterprise,Canada,Enterprise,5,60
+C0179,Summit Partners (United States),Professional Services,Small,United States,SMB,23,67
+C0180,Pulse Retail (United States) 3,Technology,Enterprise,United States,Enterprise,15,79
+C0181,Apex Retail (Australia),Technology,Small,Australia,SMB,7,64
+C0182,Bright Dynamics (United States) 2,Healthcare,Small,United States,SMB,11,74
+C0183,Orbit Labs (United States) 2,Retail,Mid-Market,United States,Growth,8,57
+C0184,Fusion Works (United States) 2,Nonprofit,Small,United States,SMB,12,79
+C0185,Nimbus Group (United Kingdom),Healthcare,Mid-Market,United Kingdom,Growth,18,78
+C0186,Nimbus Solutions (Australia),Technology,Small,Australia,SMB,13,89
+C0187,Pulse Health (United States) 2,Retail,Mid-Market,United States,Growth,15,73
+C0188,Apex Systems (United States) 3,Technology,Small,United States,SMB,11,78
+C0189,Orbit Works (United States),Healthcare,Mid-Market,United States,Growth,18,75
+C0190,Fusion Solutions (United Kingdom) 2,Finance,Enterprise,United Kingdom,Enterprise,8,67
+C0191,Apex Dynamics (United States) 3,Healthcare,Small,United States,SMB,7,75
+C0192,Pulse Partners,Finance,Mid-Market,United States,Growth,22,68
+C0193,Fusion Retail (United States) 5,Finance,Mid-Market,United States,Growth,18,74
+C0194,Summit Retail (United Kingdom),Healthcare,Small,United Kingdom,SMB,17,81
+C0195,Pulse Retail (United States) 4,Professional Services,Enterprise,United States,Enterprise,21,84
+C0196,Summit Works (United Kingdom) 2,Retail,Small,United Kingdom,SMB,16,77
+C0197,Nimbus Partners (Canada),Nonprofit,Mid-Market,Canada,Growth,6,96
+C0198,Vertex Partners (United States) 2,Finance,Mid-Market,United States,Growth,11,73
+C0199,Atlas Retail (Canada),Retail,Small,Canada,SMB,7,65
+C0200,Orbit Solutions (United Kingdom),Retail,Enterprise,United Kingdom,Enterprise,1,77
+C0201,Bright Labs (Australia) 2,Healthcare,Small,Australia,SMB,7,74
+C0202,Fusion Systems (Australia),Manufacturing,Enterprise,Australia,Enterprise,11,80
+C0203,Orbit Solutions (United Kingdom) 2,Professional Services,Small,United Kingdom,SMB,6,58
+C0204,Apex Solutions,Finance,Mid-Market,United States,Growth,20,72
+C0205,Pulse Solutions (Australia),Technology,Enterprise,Australia,Enterprise,1,93
+C0206,Apex Labs (United States),Nonprofit,Small,United States,SMB,18,78
+C0207,Atlas Dynamics (Canada),Technology,Small,Canada,SMB,17,64
+C0208,Apex Dynamics (Canada),Retail,Mid-Market,Canada,Growth,10,60
+C0209,Bright Health (United States) 3,Healthcare,Enterprise,United States,Enterprise,8,81
+C0210,Nova Labs (United States) 2,Healthcare,Small,United States,SMB,2,69
+C0211,Bright Health (United States) 4,Technology,Enterprise,United States,Enterprise,1,57
+C0212,Pulse Solutions (United States) 2,Manufacturing,Enterprise,United States,Enterprise,20,76
+C0213,Nimbus Health (United States) 3,Finance,Mid-Market,United States,Growth,13,89
+C0214,Nimbus Labs (Canada),Finance,Small,Canada,SMB,9,78
+C0215,Summit Works (United Kingdom) 3,Finance,Small,United Kingdom,SMB,2,81
+C0216,Fusion Dynamics (United States) 4,Technology,Mid-Market,United States,Growth,4,72
+C0217,Orbit Health,Professional Services,Small,United States,SMB,12,69
+C0218,Vertex Labs (United Kingdom) 2,Manufacturing,Mid-Market,United Kingdom,Growth,18,90
+C0219,Apex Health (United States) 3,Healthcare,Mid-Market,United States,Growth,15,62
+C0220,Bright Group (United States) 4,Professional Services,Mid-Market,United States,Growth,19,75
+C0221,Nova Labs (United States) 3,Retail,Mid-Market,United States,Growth,21,71
+C0222,Nova Group,Professional Services,Mid-Market,United States,Growth,6,70
+C0223,Apex Group (United States) 2,Education,Enterprise,United States,Enterprise,9,97
+C0224,Bright Retail (United States) 2,Technology,Small,United States,SMB,5,58
+C0225,Summit Health (United Kingdom) 2,Finance,Small,United Kingdom,SMB,5,64
+C0226,Atlas Works (United States) 2,Retail,Small,United States,SMB,2,67
+C0227,Bright Retail (United States) 3,Professional Services,Small,United States,SMB,2,49
+C0228,Bright Dynamics (Canada),Professional Services,Mid-Market,Canada,Growth,3,76
+C0229,Fusion Dynamics (United States) 5,Healthcare,Small,United States,SMB,12,77
+C0230,Atlas Retail (United States) 2,Finance,Enterprise,United States,Enterprise,20,78
+C0231,Bright Works (United States),Manufacturing,Small,United States,SMB,6,87
+C0232,Atlas Partners (United States),Manufacturing,Small,United States,SMB,21,82
+C0233,Summit Dynamics (United States) 2,Professional Services,Enterprise,United States,Enterprise,19,87
+C0234,Fusion Retail (United States) 6,Education,Mid-Market,United States,Growth,14,65
+C0235,Nimbus Works (United States) 4,Retail,Small,United States,SMB,13,72
+C0236,Fusion Dynamics (United States) 6,Manufacturing,Mid-Market,United States,Growth,6,63
+C0237,Fusion Labs (United States) 3,Manufacturing,Mid-Market,United States,Growth,16,68
+C0238,Fusion Partners (United States),Manufacturing,Small,United States,SMB,23,88
+C0239,Vertex Group,Healthcare,Mid-Market,United Kingdom,Growth,6,79
+C0240,Atlas Partners (United Kingdom),Professional Services,Small,United Kingdom,SMB,1,92

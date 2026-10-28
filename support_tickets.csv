@@ -1,0 +1,816 @@
+﻿TicketID,CustomerID,SubscriptionPlan,CustomerSegment,TicketCategory,Priority,Channel,SubmittedDate,ResolvedDate,ResolutionDays,Status
+T00001,C0001,Basic,Growth,Bug/Defect,High,In-App,2025-02-27,2025-03-05,6,Resolved
+T00002,C0001,Basic,Growth,Login/Access,Medium,Email,2025-08-05,2025-08-07,2,Resolved
+T00003,C0001,Basic,Growth,Bug/Defect,Low,In-App,2025-02-24,2025-03-01,5,Resolved
+T00004,C0001,Basic,Growth,Integration,Medium,In-App,2025-03-22,2025-03-28,6,Resolved
+T00005,C0001,Basic,Growth,Training,Medium,In-App,2025-04-04,2025-04-05,1,Resolved
+T00006,C0002,Enterprise,Enterprise,AI Feature,Medium,Email,2025-09-21,2025-09-24,3,Resolved
+T00007,C0002,Enterprise,Enterprise,AI Feature,Medium,Email,2025-09-26,2025-09-29,3,Resolved
+T00008,C0002,Enterprise,Enterprise,Performance,Low,Phone,2025-11-06,2025-11-08,2,Resolved
+T00009,C0002,Enterprise,Enterprise,Billing,High,Phone,2025-03-26,2025-03-27,1,Resolved
+T00010,C0002,Enterprise,Enterprise,Training,High,Email,2025-03-15,2025-03-17,2,Resolved
+T00011,C0002,Enterprise,Enterprise,Training,Medium,Chat,2025-11-27,2025-11-28,1,Resolved
+T00012,C0002,Enterprise,Enterprise,Bug/Defect,High,Chat,2025-07-18,2025-07-22,4,Resolved
+T00013,C0003,Professional,Growth,Billing,Medium,Email,2025-03-15,2025-03-17,2,Resolved
+T00014,C0003,Professional,Growth,Training,High,Email,2025-12-07,2025-12-10,3,Resolved
+T00015,C0003,Professional,Growth,Performance,Medium,Email,2025-01-04,2025-01-08,4,Resolved
+T00016,C0003,Professional,Growth,AI Feature,Low,Email,2025-07-29,2025-08-01,3,Resolved
+T00017,C0004,Professional,Enterprise,Login/Access,Low,In-App,2025-01-17,2025-01-19,2,Resolved
+T00018,C0004,Professional,Enterprise,Billing,Low,Chat,2025-04-29,2025-05-01,2,Resolved
+T00019,C0004,Professional,Enterprise,Integration,Low,Email,2025-06-16,2025-06-19,3,Resolved
+T00020,C0004,Professional,Enterprise,Billing,Low,In-App,2025-07-01,2025-07-03,2,Resolved
+T00021,C0004,Professional,Enterprise,Performance,Medium,Email,2025-03-23,2025-03-26,3,Resolved
+T00022,C0005,Basic,Enterprise,Bug/Defect,High,Phone,2025-03-29,2025-04-03,5,Resolved
+T00023,C0005,Basic,Enterprise,Permissions,Urgent,Email,2025-05-23,2025-05-28,5,Resolved
+T00024,C0005,Basic,Enterprise,AI Feature,Low,Chat,2025-02-17,2025-02-19,2,Resolved
+T00025,C0005,Basic,Enterprise,AI Feature,Low,Email,2025-06-08,2025-06-11,3,Resolved
+T00026,C0005,Basic,Enterprise,Performance,Medium,Email,2025-02-25,2025-02-27,2,Resolved
+T00027,C0005,Basic,Enterprise,AI Feature,High,Chat,2025-01-16,2025-01-20,4,Resolved
+T00028,C0005,Basic,Enterprise,Login/Access,High,Email,2025-03-13,2025-03-15,2,Resolved
+T00029,C0006,Professional,Growth,Bug/Defect,Low,Email,2025-01-22,2025-01-25,3,Resolved
+T00030,C0006,Professional,Growth,Training,High,Chat,2025-06-06,2025-06-08,2,Resolved
+T00031,C0006,Professional,Growth,AI Feature,Low,Email,2025-04-14,2025-04-16,2,Resolved
+T00032,C0007,Basic,Growth,Bug/Defect,High,In-App,2025-02-26,2025-03-05,7,Resolved
+T00033,C0007,Basic,Growth,AI Feature,Medium,Email,2025-05-06,2025-05-09,3,Resolved
+T00034,C0007,Basic,Growth,Permissions,Medium,Phone,2025-02-15,2025-02-18,3,Resolved
+T00035,C0007,Basic,Growth,Performance,Low,Email,2025-11-01,2025-11-05,4,Resolved
+T00036,C0008,Basic,Growth,Bug/Defect,Low,In-App,2025-01-11,2025-01-15,4,Resolved
+T00037,C0008,Basic,Growth,AI Feature,Medium,Email,2025-10-20,2025-10-24,4,Resolved
+T00038,C0009,Basic,Enterprise,Training,Medium,Email,2025-12-11,2025-12-13,2,Resolved
+T00039,C0009,Basic,Enterprise,Integration,Low,Email,2025-01-20,2025-01-25,5,Resolved
+T00040,C0009,Basic,Enterprise,Training,High,Email,2025-10-04,2025-10-07,3,Resolved
+T00041,C0009,Basic,Enterprise,AI Feature,Medium,Email,2025-07-12,2025-07-15,3,Resolved
+T00042,C0009,Basic,Enterprise,Login/Access,Medium,Email,2025-12-12,2025-12-13,1,Resolved
+T00043,C0009,Basic,Enterprise,Performance,Medium,Phone,2025-08-14,2025-08-17,3,Resolved
+T00044,C0009,Basic,Enterprise,AI Feature,Medium,In-App,2025-04-22,2025-04-25,3,Resolved
+T00045,C0010,Enterprise,SMB,Permissions,Low,Email,2025-02-01,2025-02-03,2,Resolved
+T00046,C0010,Enterprise,SMB,Login/Access,Medium,Chat,2025-08-24,2025-08-26,2,Resolved
+T00047,C0010,Enterprise,SMB,Performance,Low,Phone,2025-09-06,2025-09-10,4,Resolved
+T00048,C0010,Enterprise,SMB,AI Feature,Medium,Chat,2025-05-08,2025-05-12,4,Resolved
+T00049,C0011,Basic,Growth,Bug/Defect,Medium,In-App,2025-05-21,2025-05-25,4,Resolved
+T00050,C0011,Basic,Growth,AI Feature,Low,Email,2025-04-30,2025-05-03,3,Resolved
+T00051,C0012,Enterprise,Growth,Performance,Medium,Email,2025-11-05,2025-11-10,5,Resolved
+T00052,C0012,Enterprise,Growth,Training,High,Email,2025-04-24,2025-04-26,2,Resolved
+T00053,C0013,Enterprise,SMB,Login/Access,Low,Email,2025-04-08,2025-04-10,2,Resolved
+T00054,C0013,Enterprise,SMB,Bug/Defect,Low,In-App,2025-04-09,2025-04-11,2,Resolved
+T00055,C0013,Enterprise,SMB,Permissions,Medium,Email,2025-04-18,2025-04-22,4,Resolved
+T00056,C0013,Enterprise,SMB,Permissions,Medium,In-App,2025-08-06,2025-08-09,3,Resolved
+T00057,C0013,Enterprise,SMB,AI Feature,High,In-App,2025-05-07,2025-05-12,5,Resolved
+T00058,C0014,Enterprise,SMB,Bug/Defect,Low,In-App,2025-06-04,2025-06-08,4,Resolved
+T00059,C0014,Enterprise,SMB,Performance,Low,Email,2025-05-21,2025-05-25,4,Resolved
+T00060,C0015,Professional,Growth,Bug/Defect,Urgent,Chat,2025-11-14,2025-11-21,7,Resolved
+T00061,C0015,Professional,Growth,Training,Medium,In-App,2025-09-01,2025-09-03,2,Resolved
+T00062,C0016,Enterprise,SMB,Integration,Low,In-App,2025-03-25,2025-03-29,4,Resolved
+T00063,C0016,Enterprise,SMB,Billing,High,Chat,2025-07-18,2025-07-21,3,Resolved
+T00064,C0016,Enterprise,SMB,Integration,High,Chat,2025-02-28,2025-03-06,6,Resolved
+T00065,C0016,Enterprise,SMB,Training,Low,Email,2025-06-06,2025-06-07,1,Resolved
+T00066,C0017,Basic,Growth,Billing,Medium,In-App,2025-12-14,2025-12-16,2,Resolved
+T00067,C0017,Basic,Growth,Permissions,Low,Email,2025-07-24,2025-07-26,2,Resolved
+T00068,C0017,Basic,Growth,Bug/Defect,Medium,Email,2025-10-03,2025-10-06,3,Resolved
+T00069,C0018,Basic,Growth,Billing,Medium,In-App,2025-03-26,2025-03-29,3,Resolved
+T00070,C0019,Enterprise,Enterprise,Performance,Urgent,Phone,2025-06-24,2025-06-30,6,Resolved
+T00071,C0019,Enterprise,Enterprise,Login/Access,Medium,Phone,2025-04-22,2025-04-24,2,Resolved
+T00072,C0019,Enterprise,Enterprise,AI Feature,Low,In-App,2025-04-21,2025-04-23,2,Resolved
+T00073,C0019,Enterprise,Enterprise,Bug/Defect,High,Chat,2025-11-22,2025-11-27,5,Resolved
+T00074,C0019,Enterprise,Enterprise,Training,High,In-App,2025-05-25,2025-05-27,2,Resolved
+T00075,C0020,Basic,Growth,Login/Access,High,Email,2025-04-24,2025-04-27,3,Resolved
+T00076,C0021,Enterprise,SMB,Login/Access,Low,Email,2025-02-23,2025-02-24,1,Resolved
+T00077,C0021,Enterprise,SMB,Training,Low,In-App,2025-09-17,2025-09-19,2,Resolved
+T00078,C0022,Basic,Growth,Login/Access,High,Chat,2025-10-14,2025-10-16,2,Resolved
+T00079,C0022,Basic,Growth,Bug/Defect,Low,Email,2025-07-09,2025-07-12,3,Resolved
+T00080,C0022,Basic,Growth,Training,Medium,Chat,2025-09-14,2025-09-18,4,Resolved
+T00081,C0022,Basic,Growth,Integration,Low,Email,2025-08-14,2025-08-18,4,Resolved
+T00082,C0022,Basic,Growth,Login/Access,Low,Email,2025-09-19,2025-09-21,2,Resolved
+T00083,C0023,Professional,SMB,AI Feature,Urgent,Email,2025-12-10,2025-12-17,7,Resolved
+T00084,C0023,Professional,SMB,AI Feature,High,Phone,2025-08-16,2025-08-18,2,Resolved
+T00085,C0024,Professional,SMB,Billing,Low,In-App,2025-11-26,2025-11-27,1,Resolved
+T00086,C0025,Enterprise,SMB,Performance,Medium,Chat,2025-04-11,2025-04-16,5,Resolved
+T00087,C0026,Enterprise,SMB,Login/Access,Low,In-App,2025-05-10,2025-05-11,1,Resolved
+T00088,C0026,Enterprise,SMB,AI Feature,High,Chat,2025-06-19,2025-06-23,4,Resolved
+T00089,C0026,Enterprise,SMB,AI Feature,Low,In-App,2025-02-26,2025-03-01,3,Resolved
+T00090,C0027,Professional,Growth,Performance,Low,Email,2025-04-20,2025-04-22,2,Resolved
+T00091,C0027,Professional,Growth,Bug/Defect,Medium,Email,2025-10-20,2025-10-25,5,Resolved
+T00092,C0028,Enterprise,Enterprise,AI Feature,Urgent,Email,2025-11-06,2025-11-13,7,Resolved
+T00093,C0028,Enterprise,Enterprise,Performance,Low,In-App,2025-01-10,2025-01-12,2,Resolved
+T00094,C0028,Enterprise,Enterprise,Billing,Medium,Email,2025-03-16,2025-03-18,2,Resolved
+T00095,C0028,Enterprise,Enterprise,Bug/Defect,Low,Email,2025-03-27,2025-03-31,4,Resolved
+T00096,C0028,Enterprise,Enterprise,Integration,Medium,Email,2025-01-20,2025-01-24,4,Resolved
+T00097,C0028,Enterprise,Enterprise,Permissions,Low,Email,2025-01-18,2025-01-18,0,Resolved
+T00098,C0029,Professional,Growth,Login/Access,High,Chat,2025-02-10,2025-02-13,3,Resolved
+T00099,C0030,Professional,Enterprise,AI Feature,Urgent,Email,2025-03-15,2025-03-21,6,Resolved
+T00100,C0030,Professional,Enterprise,Permissions,Medium,Chat,2025-05-20,2025-05-22,2,Resolved
+T00101,C0030,Professional,Enterprise,Permissions,Medium,In-App,2025-04-11,2025-04-13,2,Resolved
+T00102,C0030,Professional,Enterprise,Integration,Medium,Email,2025-12-04,2025-12-09,5,Resolved
+T00103,C0030,Professional,Enterprise,Billing,Low,Chat,2025-01-11,2025-01-14,3,Resolved
+T00104,C0030,Professional,Enterprise,AI Feature,Medium,In-App,2025-07-25,2025-07-28,3,Resolved
+T00105,C0030,Professional,Enterprise,Permissions,Medium,Email,2025-04-05,2025-04-08,3,Resolved
+T00106,C0030,Professional,Enterprise,AI Feature,Medium,In-App,2025-06-06,2025-06-08,2,Resolved
+T00107,C0031,Professional,Enterprise,Integration,Medium,Email,2025-04-17,2025-04-22,5,Resolved
+T00108,C0031,Professional,Enterprise,Integration,Low,In-App,2025-02-27,2025-03-02,3,Resolved
+T00109,C0031,Professional,Enterprise,Billing,High,Phone,2025-03-05,2025-03-08,3,Resolved
+T00110,C0032,Professional,SMB,Login/Access,Urgent,Email,2025-07-27,2025-07-31,4,Resolved
+T00111,C0032,Professional,SMB,Performance,Low,Email,2025-11-22,2025-11-25,3,Resolved
+T00112,C0032,Professional,SMB,Login/Access,Medium,Chat,2025-08-25,2025-08-25,0,Resolved
+T00113,C0033,Enterprise,Enterprise,AI Feature,Low,Chat,2025-11-22,2025-11-24,2,Resolved
+T00114,C0033,Enterprise,Enterprise,Integration,Medium,Email,2025-04-26,2025-04-30,4,Resolved
+T00115,C0033,Enterprise,Enterprise,Bug/Defect,Medium,In-App,2025-03-25,2025-03-27,2,Resolved
+T00116,C0033,Enterprise,Enterprise,Bug/Defect,Low,In-App,2025-12-02,2025-12-05,3,Resolved
+T00117,C0033,Enterprise,Enterprise,Integration,Low,Chat,2025-06-25,2025-06-28,3,Resolved
+T00118,C0033,Enterprise,Enterprise,Permissions,Medium,Email,2025-06-17,2025-06-17,0,Resolved
+T00119,C0034,Professional,SMB,AI Feature,Low,Chat,2025-03-18,2025-03-21,3,Resolved
+T00120,C0034,Professional,SMB,Integration,High,Email,2025-10-19,2025-10-25,6,Resolved
+T00121,C0034,Professional,SMB,AI Feature,Medium,Email,2025-08-07,2025-08-10,3,Resolved
+T00122,C0035,Professional,Growth,Performance,Low,In-App,2025-08-21,2025-08-24,3,Resolved
+T00123,C0035,Professional,Growth,Billing,Low,Email,2025-06-21,2025-06-22,1,Resolved
+T00124,C0036,Professional,SMB,Permissions,Medium,Chat,2025-04-30,2025-05-04,4,Resolved
+T00125,C0036,Professional,SMB,Login/Access,Medium,Chat,2025-11-04,2025-11-05,1,Resolved
+T00126,C0037,Enterprise,SMB,AI Feature,Low,In-App,2025-08-09,2025-08-11,2,Resolved
+T00127,C0037,Enterprise,SMB,Permissions,Low,Chat,2025-07-09,2025-07-11,2,Resolved
+T00128,C0038,Professional,SMB,Login/Access,Urgent,Chat,2025-04-16,2025-04-20,4,Resolved
+T00129,C0039,Enterprise,Growth,Bug/Defect,Low,In-App,2025-01-25,2025-01-28,3,Resolved
+T00130,C0039,Enterprise,Growth,AI Feature,Medium,Email,2025-11-15,2025-11-17,2,Resolved
+T00131,C0040,Professional,SMB,Integration,Low,Email,2025-03-10,2025-03-15,5,Resolved
+T00132,C0041,Basic,Growth,Bug/Defect,Medium,Chat,2025-12-02,2025-12-07,5,Resolved
+T00133,C0041,Basic,Growth,Bug/Defect,Urgent,Email,2025-11-18,2025-11-26,8,Resolved
+T00134,C0041,Basic,Growth,AI Feature,High,Phone,2025-10-04,2025-10-09,5,Resolved
+T00135,C0041,Basic,Growth,AI Feature,Medium,Email,2025-04-08,2025-04-12,4,Resolved
+T00136,C0041,Basic,Growth,Login/Access,Low,Chat,2025-05-06,2025-05-07,1,Resolved
+T00137,C0042,Basic,Growth,Permissions,Medium,Email,2025-04-20,2025-04-21,1,Resolved
+T00138,C0042,Basic,Growth,Permissions,Low,In-App,2025-02-24,2025-02-27,3,Resolved
+T00139,C0042,Basic,Growth,Permissions,Low,Email,2025-05-04,2025-05-06,2,Resolved
+T00140,C0042,Basic,Growth,Billing,Medium,Phone,2025-02-23,2025-02-26,3,Resolved
+T00141,C0043,Enterprise,Enterprise,Performance,Low,Chat,2025-10-28,2025-10-30,2,Resolved
+T00142,C0043,Enterprise,Enterprise,Permissions,Low,Email,2025-08-03,2025-08-07,4,Resolved
+T00143,C0043,Enterprise,Enterprise,AI Feature,Urgent,Email,2025-04-24,2025-04-29,5,Resolved
+T00144,C0043,Enterprise,Enterprise,Billing,Low,In-App,2025-09-26,2025-09-27,1,Resolved
+T00145,C0043,Enterprise,Enterprise,AI Feature,Low,Chat,2025-11-11,2025-11-13,2,Resolved
+T00146,C0043,Enterprise,Enterprise,Billing,Low,In-App,2025-02-28,2025-03-02,2,Resolved
+T00147,C0043,Enterprise,Enterprise,AI Feature,Medium,Phone,2025-02-04,2025-02-08,4,Resolved
+T00148,C0044,Basic,SMB,AI Feature,Low,In-App,2025-06-19,2025-06-23,4,Resolved
+T00149,C0044,Basic,SMB,Performance,Low,Phone,2025-01-07,2025-01-10,3,Resolved
+T00150,C0044,Basic,SMB,AI Feature,Low,Chat,2025-06-13,2025-06-16,3,Resolved
+T00151,C0045,Basic,Growth,Training,Medium,In-App,2025-03-09,2025-03-11,2,Resolved
+T00152,C0045,Basic,Growth,Integration,Medium,In-App,2025-10-25,2025-10-29,4,Resolved
+T00153,C0045,Basic,Growth,AI Feature,Medium,Chat,2025-05-09,2025-05-11,2,Resolved
+T00154,C0046,Basic,Growth,Performance,Low,Chat,2025-06-26,2025-06-30,4,Resolved
+T00155,C0046,Basic,Growth,Billing,Medium,Chat,2025-03-20,2025-03-22,2,Resolved
+T00156,C0047,Professional,SMB,Login/Access,Urgent,Email,2025-11-08,2025-11-13,5,Resolved
+T00157,C0047,Professional,SMB,Integration,Medium,Chat,2025-09-11,2025-09-16,5,Resolved
+T00158,C0048,Professional,SMB,Billing,Medium,In-App,2025-09-22,2025-09-25,3,Resolved
+T00159,C0048,Professional,SMB,Integration,Low,Email,2025-09-04,2025-09-07,3,Resolved
+T00160,C0048,Professional,SMB,Login/Access,Medium,Chat,2025-07-11,2025-07-12,1,Resolved
+T00161,C0048,Professional,SMB,Bug/Defect,Medium,Chat,2025-04-07,2025-04-12,5,Resolved
+T00162,C0049,Professional,SMB,Billing,Medium,Email,2025-03-25,2025-03-26,1,Resolved
+T00163,C0049,Professional,SMB,Training,Low,Email,2025-05-08,2025-05-10,2,Resolved
+T00164,C0049,Professional,SMB,Integration,Medium,Email,2025-02-15,2025-02-20,5,Resolved
+T00165,C0050,Enterprise,SMB,Permissions,Medium,In-App,2025-01-09,2025-01-11,2,Resolved
+T00166,C0050,Enterprise,SMB,Performance,High,Phone,2025-10-29,2025-11-03,5,Resolved
+T00167,C0050,Enterprise,SMB,AI Feature,Low,Email,2025-07-22,2025-07-25,3,Resolved
+T00168,C0051,Professional,SMB,AI Feature,Medium,In-App,2025-06-16,2025-06-18,2,Resolved
+T00169,C0051,Professional,SMB,Login/Access,Low,Chat,2025-01-24,2025-01-25,1,Resolved
+T00170,C0051,Professional,SMB,Bug/Defect,High,Email,2025-10-23,2025-10-29,6,Resolved
+T00171,C0051,Professional,SMB,Integration,Medium,Phone,2025-05-31,2025-06-04,4,Resolved
+T00172,C0052,Enterprise,SMB,Integration,Low,Email,2025-04-30,2025-05-03,3,Resolved
+T00173,C0052,Enterprise,SMB,Permissions,Medium,Chat,2025-01-02,2025-01-04,2,Resolved
+T00174,C0053,Basic,SMB,Billing,High,Email,2025-08-26,2025-08-29,3,Resolved
+T00175,C0053,Basic,SMB,Login/Access,Medium,Chat,2025-05-27,2025-05-28,1,Resolved
+T00176,C0054,Enterprise,SMB,Permissions,Low,Email,2025-03-23,2025-03-24,1,Resolved
+T00177,C0055,Enterprise,Enterprise,Billing,High,Chat,2025-07-21,2025-07-23,2,Resolved
+T00178,C0055,Enterprise,Enterprise,Billing,Low,In-App,2025-05-12,2025-05-12,0,Resolved
+T00179,C0055,Enterprise,Enterprise,Login/Access,Low,In-App,2025-09-11,2025-09-12,1,Resolved
+T00180,C0055,Enterprise,Enterprise,Integration,Medium,Email,2025-10-09,2025-10-14,5,Resolved
+T00181,C0055,Enterprise,Enterprise,Billing,Medium,In-App,2025-09-15,2025-09-17,2,Resolved
+T00182,C0055,Enterprise,Enterprise,Training,Urgent,Email,2025-10-27,2025-10-31,4,Resolved
+T00183,C0055,Enterprise,Enterprise,Permissions,Low,Chat,2025-01-31,2025-02-03,3,Resolved
+T00184,C0055,Enterprise,Enterprise,AI Feature,Low,Email,2025-09-20,2025-09-23,3,Resolved
+T00185,C0055,Enterprise,Enterprise,Integration,High,Phone,2025-07-07,2025-07-13,6,Resolved
+T00186,C0055,Enterprise,Enterprise,Integration,Low,Email,2025-10-07,2025-10-10,3,Resolved
+T00187,C0055,Enterprise,Enterprise,AI Feature,Low,Chat,2025-08-08,2025-08-10,2,Resolved
+T00188,C0056,Professional,Enterprise,Login/Access,Medium,Chat,2025-05-19,2025-05-21,2,Resolved
+T00189,C0056,Professional,Enterprise,Bug/Defect,High,Chat,2025-01-26,2025-01-31,5,Resolved
+T00190,C0056,Professional,Enterprise,Bug/Defect,Low,In-App,2025-03-21,2025-03-24,3,Resolved
+T00191,C0056,Professional,Enterprise,Login/Access,High,Phone,2025-02-06,2025-02-09,3,Resolved
+T00192,C0056,Professional,Enterprise,Bug/Defect,Medium,Chat,2025-09-11,2025-09-15,4,Resolved
+T00193,C0057,Professional,SMB,Training,Low,Email,2025-12-10,2025-12-12,2,Resolved
+T00194,C0058,Professional,SMB,AI Feature,Medium,Email,2025-03-24,2025-03-27,3,Resolved
+T00195,C0058,Professional,SMB,Bug/Defect,Low,Chat,2025-04-11,2025-04-14,3,Resolved
+T00196,C0059,Enterprise,Enterprise,Billing,High,Phone,2025-08-24,2025-08-27,3,Resolved
+T00197,C0059,Enterprise,Enterprise,Bug/Defect,Urgent,Email,2025-05-04,2025-05-12,8,Resolved
+T00198,C0059,Enterprise,Enterprise,Permissions,Low,Email,2025-08-11,2025-08-13,2,Resolved
+T00199,C0059,Enterprise,Enterprise,Integration,High,Email,2025-08-01,2025-08-07,6,Resolved
+T00200,C0059,Enterprise,Enterprise,Integration,High,Email,2025-12-08,2025-12-14,6,Resolved
+T00201,C0060,Enterprise,Enterprise,Performance,High,Email,2025-06-08,2025-06-12,4,Resolved
+T00202,C0060,Enterprise,Enterprise,AI Feature,Medium,Email,2025-03-18,2025-03-21,3,Resolved
+T00203,C0060,Enterprise,Enterprise,Bug/Defect,Low,Email,2025-05-25,2025-05-27,2,Resolved
+T00204,C0060,Enterprise,Enterprise,Training,Low,Chat,2025-11-25,2025-11-26,1,Resolved
+T00205,C0060,Enterprise,Enterprise,Billing,Medium,Chat,2025-10-06,2025-10-07,1,Resolved
+T00206,C0061,Basic,SMB,Login/Access,Urgent,Chat,2025-03-27,2025-03-30,3,Resolved
+T00207,C0061,Basic,SMB,Training,Medium,In-App,2025-02-12,2025-02-14,2,Resolved
+T00208,C0062,Basic,Growth,Billing,High,Chat,2025-06-06,2025-06-07,1,Resolved
+T00209,C0062,Basic,Growth,Performance,Low,Phone,2025-03-01,2025-03-04,3,Resolved
+T00210,C0062,Basic,Growth,Integration,Low,Email,2025-11-11,2025-11-16,5,Resolved
+T00211,C0063,Enterprise,Enterprise,Login/Access,Low,Phone,2025-01-31,2025-02-01,1,Resolved
+T00212,C0063,Enterprise,Enterprise,Bug/Defect,Medium,Chat,2025-01-26,2025-01-30,4,Resolved
+T00213,C0063,Enterprise,Enterprise,Bug/Defect,Medium,In-App,2025-11-23,2025-11-26,3,Resolved
+T00214,C0063,Enterprise,Enterprise,Integration,Medium,Email,2025-09-06,2025-09-10,4,Resolved
+T00215,C0063,Enterprise,Enterprise,Integration,Low,Email,2025-10-06,2025-10-08,2,Resolved
+T00216,C0063,Enterprise,Enterprise,Performance,High,Email,2025-10-21,2025-10-26,5,Resolved
+T00217,C0063,Enterprise,Enterprise,Integration,Low,In-App,2025-08-15,2025-08-18,3,Resolved
+T00218,C0064,Basic,Growth,Performance,Low,In-App,2025-11-13,2025-11-17,4,Resolved
+T00219,C0064,Basic,Growth,Performance,Medium,Email,2025-04-24,2025-04-27,3,Resolved
+T00220,C0064,Basic,Growth,Performance,Low,Email,2025-08-30,2025-09-02,3,Resolved
+T00221,C0065,Professional,Growth,Login/Access,Low,Email,2025-10-17,2025-10-18,1,Resolved
+T00222,C0065,Professional,Growth,Training,Medium,In-App,2025-09-16,2025-09-19,3,Resolved
+T00223,C0065,Professional,Growth,Permissions,Medium,In-App,2025-08-12,2025-08-16,4,Resolved
+T00224,C0066,Enterprise,Enterprise,Login/Access,Medium,In-App,2025-07-29,2025-07-30,1,Resolved
+T00225,C0066,Enterprise,Enterprise,AI Feature,Medium,Phone,2025-06-28,2025-07-01,3,Resolved
+T00226,C0066,Enterprise,Enterprise,Billing,Low,Email,2025-06-06,2025-06-08,2,Resolved
+T00227,C0066,Enterprise,Enterprise,Bug/Defect,Medium,Email,2025-03-16,2025-03-20,4,Resolved
+T00228,C0067,Basic,SMB,Permissions,Low,In-App,2025-07-18,2025-07-20,2,Resolved
+T00229,C0067,Basic,SMB,Performance,Medium,Chat,2025-02-23,2025-02-27,4,Resolved
+T00230,C0067,Basic,SMB,AI Feature,High,Chat,2025-03-22,2025-03-25,3,Resolved
+T00231,C0068,Basic,SMB,Billing,Low,Email,2025-08-26,2025-08-28,2,Resolved
+T00232,C0069,Enterprise,Enterprise,Permissions,Urgent,In-App,2025-04-02,2025-04-06,4,Resolved
+T00233,C0069,Enterprise,Enterprise,Bug/Defect,Urgent,Email,2025-05-12,2025-05-18,6,Resolved
+T00234,C0069,Enterprise,Enterprise,Integration,Medium,Phone,2025-07-03,2025-07-07,4,Resolved
+T00235,C0069,Enterprise,Enterprise,Bug/Defect,High,Email,2025-01-14,2025-01-19,5,Resolved
+T00236,C0069,Enterprise,Enterprise,AI Feature,Medium,In-App,2025-04-22,2025-04-25,3,Resolved
+T00237,C0069,Enterprise,Enterprise,Training,Low,Email,2025-07-03,2025-07-05,2,Resolved
+T00238,C0069,Enterprise,Enterprise,Bug/Defect,Medium,Email,2025-02-14,2025-02-18,4,Resolved
+T00239,C0069,Enterprise,Enterprise,AI Feature,Low,Email,2025-02-08,2025-02-11,3,Resolved
+T00240,C0070,Enterprise,Enterprise,Integration,Low,Email,2025-03-03,2025-03-06,3,Resolved
+T00241,C0070,Enterprise,Enterprise,Login/Access,High,Email,2025-06-30,2025-07-02,2,Resolved
+T00242,C0070,Enterprise,Enterprise,AI Feature,Low,Chat,2025-07-31,2025-08-03,3,Resolved
+T00243,C0070,Enterprise,Enterprise,Login/Access,Low,Phone,2025-04-28,2025-04-29,1,Resolved
+T00244,C0070,Enterprise,Enterprise,Billing,Medium,Chat,2025-07-11,2025-07-12,1,Resolved
+T00245,C0071,Enterprise,Enterprise,Permissions,Medium,Email,2025-11-17,2025-11-20,3,Resolved
+T00246,C0071,Enterprise,Enterprise,Billing,Low,Email,2025-06-16,2025-06-17,1,Resolved
+T00247,C0071,Enterprise,Enterprise,Login/Access,Medium,In-App,2025-03-28,2025-03-30,2,Resolved
+T00248,C0071,Enterprise,Enterprise,Bug/Defect,Medium,Email,2025-08-01,2025-08-04,3,Resolved
+T00249,C0071,Enterprise,Enterprise,Performance,Low,Email,2025-10-28,2025-10-30,2,Resolved
+T00250,C0071,Enterprise,Enterprise,AI Feature,Low,Chat,2025-03-19,2025-03-21,2,Resolved
+T00251,C0071,Enterprise,Enterprise,Billing,High,Email,2025-04-16,2025-04-18,2,Resolved
+T00252,C0072,Enterprise,Growth,Login/Access,High,Phone,2025-11-18,2025-11-21,3,Resolved
+T00253,C0072,Enterprise,Growth,Permissions,Medium,Email,2025-01-24,2025-01-28,4,Resolved
+T00254,C0072,Enterprise,Growth,Performance,Medium,In-App,2025-10-23,2025-10-27,4,Resolved
+T00255,C0073,Professional,Growth,Training,Low,Chat,2025-03-05,2025-03-08,3,Resolved
+T00256,C0073,Professional,Growth,AI Feature,Low,Phone,2025-10-23,2025-10-25,2,Resolved
+T00257,C0073,Professional,Growth,Integration,Low,Email,2025-09-11,2025-09-14,3,Resolved
+T00258,C0073,Professional,Growth,Training,Low,Chat,2025-06-11,2025-06-13,2,Resolved
+T00259,C0074,Enterprise,Enterprise,Bug/Defect,Low,In-App,2025-06-16,2025-06-19,3,Resolved
+T00260,C0074,Enterprise,Enterprise,Training,Urgent,Email,2025-11-19,2025-11-21,2,Resolved
+T00261,C0074,Enterprise,Enterprise,Performance,Low,Email,2025-05-25,2025-05-28,3,Resolved
+T00262,C0075,Professional,Enterprise,Integration,Low,Chat,2025-06-15,2025-06-19,4,Resolved
+T00263,C0075,Professional,Enterprise,Bug/Defect,Medium,Phone,2025-03-29,2025-04-01,3,Resolved
+T00264,C0075,Professional,Enterprise,Bug/Defect,Medium,Email,2025-08-15,2025-08-18,3,Resolved
+T00265,C0075,Professional,Enterprise,Performance,Low,Email,2025-06-08,2025-06-10,2,Resolved
+T00266,C0075,Professional,Enterprise,AI Feature,Medium,Email,2025-02-18,2025-02-21,3,Resolved
+T00267,C0076,Enterprise,SMB,Performance,Medium,In-App,2025-09-22,2025-09-26,4,Resolved
+T00268,C0076,Enterprise,SMB,Billing,Medium,Email,2025-02-07,2025-02-09,2,Resolved
+T00269,C0077,Professional,Growth,AI Feature,Medium,In-App,2025-02-20,2025-02-24,4,Resolved
+T00270,C0077,Professional,Growth,Integration,Medium,Email,2025-01-08,2025-01-13,5,Resolved
+T00271,C0078,Basic,SMB,Permissions,Low,In-App,2025-03-27,2025-03-29,2,Resolved
+T00272,C0079,Enterprise,Enterprise,Bug/Defect,Medium,Phone,2025-09-23,2025-09-28,5,Resolved
+T00273,C0079,Enterprise,Enterprise,Login/Access,Medium,In-App,2025-07-06,2025-07-07,1,Resolved
+T00274,C0080,Basic,Growth,Permissions,Low,In-App,2025-02-21,2025-02-24,3,Resolved
+T00275,C0080,Basic,Growth,Integration,Medium,Phone,2025-04-12,2025-04-17,5,Resolved
+T00276,C0080,Basic,Growth,Permissions,Low,In-App,2025-06-15,2025-06-17,2,Resolved
+T00277,C0080,Basic,Growth,AI Feature,Urgent,In-App,2025-12-10,2025-12-16,6,Resolved
+T00278,C0081,Professional,SMB,AI Feature,High,Email,2025-12-04,2025-12-09,5,Resolved
+T00279,C0081,Professional,SMB,Bug/Defect,Medium,In-App,2025-11-14,2025-11-18,4,Resolved
+T00280,C0081,Professional,SMB,Integration,Low,Email,2025-12-06,2025-12-10,4,Resolved
+T00281,C0081,Professional,SMB,Performance,Low,In-App,2025-05-10,2025-05-14,4,Resolved
+T00282,C0082,Basic,Growth,Integration,Medium,In-App,2025-04-02,2025-04-06,4,Resolved
+T00283,C0082,Basic,Growth,Bug/Defect,Medium,Email,2025-01-15,2025-01-18,3,Resolved
+T00284,C0083,Enterprise,SMB,Login/Access,Medium,Email,2025-11-10,2025-11-14,4,Resolved
+T00285,C0083,Enterprise,SMB,Training,Low,Chat,2025-11-12,2025-11-12,0,Resolved
+T00286,C0084,Enterprise,Growth,Training,Medium,Phone,2025-11-23,2025-11-27,4,Resolved
+T00287,C0084,Enterprise,Growth,Billing,Medium,In-App,2025-09-30,2025-10-03,3,Resolved
+T00288,C0085,Professional,Growth,Login/Access,High,Email,2025-03-03,2025-03-05,2,Resolved
+T00289,C0085,Professional,Growth,Login/Access,Low,Email,2025-10-14,2025-10-15,1,Resolved
+T00290,C0085,Professional,Growth,Billing,Medium,Email,2025-01-12,2025-01-13,1,Resolved
+T00291,C0086,Basic,Growth,Integration,Low,Email,2025-03-20,2025-03-24,4,Resolved
+T00292,C0086,Basic,Growth,Permissions,High,In-App,2025-03-12,2025-03-15,3,Resolved
+T00293,C0087,Professional,Growth,Integration,High,Chat,2025-09-13,2025-09-19,6,Resolved
+T00294,C0087,Professional,Growth,AI Feature,High,Chat,2025-10-21,2025-10-26,5,Resolved
+T00295,C0088,Basic,Growth,Permissions,Low,Phone,2025-06-05,2025-06-06,1,Resolved
+T00296,C0088,Basic,Growth,Performance,Low,Chat,2025-09-25,2025-09-28,3,Resolved
+T00297,C0088,Basic,Growth,Performance,High,Email,2025-09-19,2025-09-24,5,Resolved
+T00298,C0088,Basic,Growth,Login/Access,Medium,Email,2025-04-07,2025-04-09,2,Resolved
+T00299,C0088,Basic,Growth,AI Feature,High,Email,2025-10-27,2025-11-01,5,Resolved
+T00300,C0088,Basic,Growth,Integration,Medium,Email,2025-11-08,2025-11-13,5,Resolved
+T00301,C0088,Basic,Growth,AI Feature,Low,Email,2025-07-31,2025-08-03,3,Resolved
+T00302,C0088,Basic,Growth,Bug/Defect,Low,Phone,2025-07-16,2025-07-19,3,Resolved
+T00303,C0089,Professional,SMB,Permissions,High,Email,2025-11-19,2025-11-23,4,Resolved
+T00304,C0089,Professional,SMB,Bug/Defect,Medium,Email,2025-07-03,2025-07-07,4,Resolved
+T00305,C0089,Professional,SMB,Login/Access,Medium,Chat,2025-04-01,2025-04-02,1,Resolved
+T00306,C0089,Professional,SMB,Bug/Defect,Low,In-App,2025-01-21,2025-01-24,3,Resolved
+T00307,C0090,Basic,SMB,Performance,Low,Phone,2025-04-01,2025-04-05,4,Resolved
+T00308,C0090,Basic,SMB,Integration,Medium,Chat,2025-11-08,2025-11-12,4,Resolved
+T00309,C0090,Basic,SMB,Billing,Low,Phone,2025-09-23,2025-09-26,3,Resolved
+T00310,C0091,Professional,SMB,AI Feature,High,Email,2025-06-08,2025-06-15,7,Resolved
+T00311,C0092,Basic,Growth,Permissions,Urgent,Email,2025-04-24,2025-04-28,4,Resolved
+T00312,C0092,Basic,Growth,AI Feature,Low,Chat,2025-05-04,2025-05-07,3,Resolved
+T00313,C0092,Basic,Growth,Training,Low,Email,2025-02-10,2025-02-14,4,Resolved
+T00314,C0093,Professional,SMB,Performance,Low,Phone,2025-08-16,2025-08-18,2,Resolved
+T00315,C0093,Professional,SMB,Bug/Defect,Low,Email,2025-11-23,2025-11-27,4,Resolved
+T00316,C0094,Professional,SMB,Integration,Low,Email,2025-05-09,2025-05-13,4,Resolved
+T00317,C0094,Professional,SMB,AI Feature,Low,Email,2025-04-17,2025-04-19,2,Resolved
+T00318,C0095,Professional,Enterprise,Integration,Medium,Chat,2025-08-07,2025-08-11,4,Resolved
+T00319,C0095,Professional,Enterprise,Performance,Urgent,In-App,2025-02-12,2025-02-18,6,Resolved
+T00320,C0095,Professional,Enterprise,Login/Access,Medium,In-App,2025-11-13,2025-11-15,2,Resolved
+T00321,C0095,Professional,Enterprise,AI Feature,Low,In-App,2025-01-11,2025-01-13,2,Resolved
+T00322,C0095,Professional,Enterprise,AI Feature,Medium,Chat,2025-02-14,2025-02-17,3,Resolved
+T00323,C0095,Professional,Enterprise,Performance,High,Chat,2025-07-02,2025-07-06,4,Resolved
+T00324,C0095,Professional,Enterprise,AI Feature,Low,Chat,2025-10-30,2025-11-02,3,Resolved
+T00325,C0095,Professional,Enterprise,AI Feature,Low,Email,2025-09-03,2025-09-05,2,Resolved
+T00326,C0095,Professional,Enterprise,Login/Access,High,Chat,2025-09-02,2025-09-03,1,Resolved
+T00327,C0096,Enterprise,Enterprise,Integration,Urgent,Chat,2025-07-24,2025-08-01,8,Resolved
+T00328,C0096,Enterprise,Enterprise,Integration,Low,Chat,2025-08-01,2025-08-04,3,Resolved
+T00329,C0096,Enterprise,Enterprise,Login/Access,Medium,Phone,2025-04-19,2025-04-21,2,Resolved
+T00330,C0096,Enterprise,Enterprise,AI Feature,Medium,Email,2025-09-21,2025-09-24,3,Resolved
+T00331,C0096,Enterprise,Enterprise,AI Feature,Medium,Chat,2025-08-03,2025-08-05,2,Resolved
+T00332,C0096,Enterprise,Enterprise,Integration,Low,Email,2025-12-13,2025-12-17,4,Resolved
+T00333,C0097,Professional,Growth,Billing,High,In-App,2025-08-03,2025-08-07,4,Resolved
+T00334,C0097,Professional,Growth,Login/Access,Medium,Email,2025-11-16,2025-11-18,2,Resolved
+T00335,C0097,Professional,Growth,Permissions,Low,Email,2025-02-16,2025-02-17,1,Resolved
+T00336,C0098,Basic,SMB,Performance,Medium,Chat,2025-07-19,2025-07-23,4,Resolved
+T00337,C0098,Basic,SMB,AI Feature,Medium,Chat,2025-10-17,2025-10-21,4,Resolved
+T00338,C0099,Enterprise,Enterprise,Login/Access,Low,Email,2025-05-09,2025-05-11,2,Resolved
+T00339,C0099,Enterprise,Enterprise,Integration,Medium,Email,2025-12-11,2025-12-15,4,Resolved
+T00340,C0099,Enterprise,Enterprise,Login/Access,Low,Email,2025-10-28,2025-10-29,1,Resolved
+T00341,C0099,Enterprise,Enterprise,Billing,Medium,Email,2025-04-10,2025-04-14,4,Resolved
+T00342,C0100,Professional,Growth,AI Feature,Urgent,Email,2025-10-04,2025-10-11,7,Resolved
+T00343,C0100,Professional,Growth,Login/Access,Medium,Chat,2025-02-09,2025-02-11,2,Resolved
+T00344,C0100,Professional,Growth,Integration,Medium,Email,2025-08-20,2025-08-25,5,Resolved
+T00345,C0100,Professional,Growth,AI Feature,Low,Email,2025-09-24,2025-09-25,1,Resolved
+T00346,C0100,Professional,Growth,Login/Access,High,In-App,2025-03-29,2025-03-31,2,Resolved
+T00347,C0100,Professional,Growth,Performance,High,Email,2025-06-01,2025-06-06,5,Resolved
+T00348,C0100,Professional,Growth,Login/Access,High,Phone,2025-02-22,2025-02-25,3,Resolved
+T00349,C0101,Enterprise,Enterprise,Training,Low,In-App,2025-04-30,2025-04-30,0,Resolved
+T00350,C0101,Enterprise,Enterprise,Login/Access,Medium,Phone,2025-09-21,2025-09-23,2,Resolved
+T00351,C0101,Enterprise,Enterprise,Billing,Low,In-App,2025-08-01,2025-08-03,2,Resolved
+T00352,C0101,Enterprise,Enterprise,Training,High,Chat,2025-07-27,2025-07-28,1,Resolved
+T00353,C0102,Basic,Growth,Performance,Low,Email,2025-07-05,2025-07-09,4,Resolved
+T00354,C0102,Basic,Growth,Permissions,Medium,In-App,2025-11-21,2025-11-26,5,Resolved
+T00355,C0102,Basic,Growth,Login/Access,Low,In-App,2025-02-17,2025-02-19,2,Resolved
+T00356,C0102,Basic,Growth,Login/Access,Low,Chat,2025-01-24,2025-01-27,3,Resolved
+T00357,C0102,Basic,Growth,Bug/Defect,Medium,Email,2025-01-20,2025-01-24,4,Resolved
+T00358,C0103,Professional,Growth,Training,High,Chat,2025-08-29,2025-08-31,2,Resolved
+T00359,C0103,Professional,Growth,Integration,Medium,Phone,2025-01-21,2025-01-26,5,Resolved
+T00360,C0103,Professional,Growth,AI Feature,High,Phone,2025-07-24,2025-07-29,5,Resolved
+T00361,C0103,Professional,Growth,Billing,Medium,In-App,2025-10-19,2025-10-21,2,Resolved
+T00362,C0103,Professional,Growth,AI Feature,Medium,In-App,2025-07-18,2025-07-21,3,Resolved
+T00363,C0104,Enterprise,SMB,Training,Medium,Chat,2025-10-05,2025-10-08,3,Resolved
+T00364,C0105,Basic,Growth,Performance,Low,Email,2025-08-06,2025-08-09,3,Resolved
+T00365,C0105,Basic,Growth,Bug/Defect,Medium,Email,2025-05-19,2025-05-22,3,Resolved
+T00366,C0106,Professional,Growth,Training,High,In-App,2025-07-26,2025-07-28,2,Resolved
+T00367,C0106,Professional,Growth,Integration,Medium,Chat,2025-01-13,2025-01-18,5,Resolved
+T00368,C0106,Professional,Growth,Integration,Low,Email,2025-09-09,2025-09-14,5,Resolved
+T00369,C0106,Professional,Growth,AI Feature,Urgent,In-App,2025-12-10,2025-12-15,5,Resolved
+T00370,C0107,Basic,SMB,Integration,High,Email,2025-03-23,2025-03-29,6,Resolved
+T00371,C0107,Basic,SMB,Bug/Defect,Low,In-App,2025-11-10,2025-11-14,4,Resolved
+T00372,C0107,Basic,SMB,Login/Access,High,Chat,2025-11-30,2025-12-03,3,Resolved
+T00373,C0108,Professional,SMB,Performance,Low,Chat,2025-08-25,2025-08-28,3,Resolved
+T00374,C0108,Professional,SMB,Performance,Urgent,Chat,2025-06-23,2025-06-29,6,Resolved
+T00375,C0109,Basic,Growth,Login/Access,Urgent,Phone,2025-01-20,2025-01-23,3,Resolved
+T00376,C0109,Basic,Growth,AI Feature,Medium,Email,2025-07-05,2025-07-07,2,Resolved
+T00377,C0110,Enterprise,Growth,Billing,High,Email,2025-01-08,2025-01-11,3,Resolved
+T00378,C0110,Enterprise,Growth,Billing,Low,In-App,2025-03-20,2025-03-22,2,Resolved
+T00379,C0110,Enterprise,Growth,Performance,High,Email,2025-12-02,2025-12-07,5,Resolved
+T00380,C0110,Enterprise,Growth,Bug/Defect,Medium,In-App,2025-11-14,2025-11-18,4,Resolved
+T00381,C0110,Enterprise,Growth,Performance,Low,Phone,2025-11-13,2025-11-16,3,Resolved
+T00382,C0111,Professional,Growth,AI Feature,Low,In-App,2025-07-23,2025-07-26,3,Resolved
+T00383,C0111,Professional,Growth,AI Feature,Low,Email,2025-02-17,2025-02-20,3,Resolved
+T00384,C0111,Professional,Growth,Permissions,Low,Email,2025-07-03,2025-07-05,2,Resolved
+T00385,C0111,Professional,Growth,AI Feature,Medium,In-App,2025-09-21,2025-09-24,3,Resolved
+T00386,C0111,Professional,Growth,Performance,Low,Email,2025-11-27,2025-12-01,4,Resolved
+T00387,C0111,Professional,Growth,Login/Access,Medium,In-App,2025-02-10,2025-02-12,2,Resolved
+T00388,C0112,Basic,SMB,Performance,Medium,Email,2025-09-17,2025-09-22,5,Resolved
+T00389,C0112,Basic,SMB,Performance,Urgent,Email,2025-08-18,2025-08-25,7,Resolved
+T00390,C0113,Basic,Growth,Bug/Defect,Medium,In-App,2025-07-14,2025-07-18,4,Resolved
+T00391,C0113,Basic,Growth,Bug/Defect,Low,Phone,2025-05-13,2025-05-15,2,Resolved
+T00392,C0113,Basic,Growth,Login/Access,Low,Email,2025-01-10,2025-01-11,1,Resolved
+T00393,C0114,Basic,SMB,Integration,Low,In-App,2025-01-31,2025-02-04,4,Resolved
+T00394,C0114,Basic,SMB,Bug/Defect,Medium,Email,2025-05-21,2025-05-24,3,Resolved
+T00395,C0114,Basic,SMB,Bug/Defect,Low,Email,2025-11-22,2025-11-26,4,Resolved
+T00396,C0115,Professional,SMB,AI Feature,Medium,In-App,2025-11-24,2025-11-27,3,Resolved
+T00397,C0115,Professional,SMB,Login/Access,Low,In-App,2025-10-07,2025-10-09,2,Resolved
+T00398,C0115,Professional,SMB,Integration,High,Chat,2025-03-22,2025-03-27,5,Resolved
+T00399,C0116,Professional,Enterprise,Bug/Defect,Low,In-App,2025-04-15,2025-04-19,4,Resolved
+T00400,C0116,Professional,Enterprise,Bug/Defect,High,Chat,2025-03-10,2025-03-16,6,Resolved
+T00401,C0116,Professional,Enterprise,Billing,Urgent,In-App,2025-02-21,2025-02-25,4,Resolved
+T00402,C0116,Professional,Enterprise,Integration,Low,Email,2025-05-28,2025-06-01,4,Resolved
+T00403,C0116,Professional,Enterprise,AI Feature,High,In-App,2025-09-01,2025-09-04,3,Resolved
+T00404,C0116,Professional,Enterprise,AI Feature,Low,Chat,2025-07-01,2025-07-03,2,Resolved
+T00405,C0117,Basic,SMB,Training,High,In-App,2025-04-10,2025-04-14,4,Resolved
+T00406,C0117,Basic,SMB,Bug/Defect,Medium,Chat,2025-10-28,2025-11-02,5,Resolved
+T00407,C0117,Basic,SMB,Bug/Defect,Urgent,Email,2025-03-23,2025-03-29,6,Resolved
+T00408,C0117,Basic,SMB,AI Feature,High,Email,2025-10-11,2025-10-14,3,Resolved
+T00409,C0117,Basic,SMB,Login/Access,Low,Chat,2025-08-28,2025-08-30,2,Resolved
+T00410,C0118,Enterprise,SMB,Billing,Medium,Chat,2025-05-19,2025-05-21,2,Resolved
+T00411,C0118,Enterprise,SMB,Login/Access,Medium,In-App,2025-04-16,2025-04-17,1,Resolved
+T00412,C0118,Enterprise,SMB,AI Feature,Medium,In-App,2025-08-02,2025-08-05,3,Resolved
+T00413,C0118,Enterprise,SMB,AI Feature,High,Chat,2025-01-23,2025-01-27,4,Resolved
+T00414,C0119,Enterprise,Enterprise,Bug/Defect,Low,In-App,2025-04-29,2025-05-02,3,Resolved
+T00415,C0119,Enterprise,Enterprise,Training,Low,In-App,2025-03-01,2025-03-03,2,Resolved
+T00416,C0119,Enterprise,Enterprise,Permissions,Medium,Chat,2025-03-30,2025-04-02,3,Resolved
+T00417,C0120,Enterprise,SMB,Bug/Defect,Low,Chat,2025-07-08,2025-07-11,3,Resolved
+T00418,C0121,Professional,Growth,Bug/Defect,Medium,In-App,2025-01-12,2025-01-16,4,Resolved
+T00419,C0121,Professional,Growth,Bug/Defect,Medium,In-App,2025-06-26,2025-07-01,5,Resolved
+T00420,C0121,Professional,Growth,Billing,Medium,Phone,2025-11-07,2025-11-09,2,Resolved
+T00421,C0121,Professional,Growth,Billing,Low,Chat,2025-12-01,2025-12-03,2,Resolved
+T00422,C0122,Basic,Growth,Permissions,Low,In-App,2025-03-20,2025-03-22,2,Resolved
+T00423,C0123,Professional,Enterprise,Bug/Defect,Medium,Email,2025-05-30,2025-06-02,3,Resolved
+T00424,C0124,Professional,SMB,Training,Low,Email,2025-02-28,2025-03-02,2,Resolved
+T00425,C0125,Enterprise,Enterprise,Login/Access,Low,In-App,2025-01-12,2025-01-13,1,Resolved
+T00426,C0125,Enterprise,Enterprise,AI Feature,Low,In-App,2025-04-27,2025-05-01,4,Resolved
+T00427,C0125,Enterprise,Enterprise,Performance,Low,Chat,2025-07-05,2025-07-07,2,Resolved
+T00428,C0125,Enterprise,Enterprise,Integration,High,Email,2025-03-02,2025-03-08,6,Resolved
+T00429,C0125,Enterprise,Enterprise,AI Feature,Low,Email,2025-01-13,2025-01-15,2,Resolved
+T00430,C0126,Enterprise,SMB,Login/Access,High,Chat,2025-09-09,2025-09-13,4,Resolved
+T00431,C0126,Enterprise,SMB,Performance,Medium,In-App,2025-06-02,2025-06-05,3,Resolved
+T00432,C0126,Enterprise,SMB,Login/Access,Low,Email,2025-08-16,2025-08-18,2,Resolved
+T00433,C0126,Enterprise,SMB,AI Feature,Medium,Chat,2025-10-12,2025-10-16,4,Resolved
+T00434,C0126,Enterprise,SMB,Bug/Defect,High,Email,2025-12-11,2025-12-16,5,Resolved
+T00435,C0126,Enterprise,SMB,Integration,Medium,In-App,2025-02-05,2025-02-10,5,Resolved
+T00436,C0127,Enterprise,Growth,Login/Access,Low,In-App,2025-04-01,2025-04-03,2,Resolved
+T00437,C0127,Enterprise,Growth,Billing,Medium,In-App,2025-09-06,2025-09-08,2,Resolved
+T00438,C0128,Professional,SMB,AI Feature,High,Email,2025-07-07,2025-07-11,4,Resolved
+T00439,C0128,Professional,SMB,Permissions,High,In-App,2025-07-03,2025-07-06,3,Resolved
+T00440,C0128,Professional,SMB,Performance,High,Phone,2025-08-07,2025-08-13,6,Resolved
+T00441,C0128,Professional,SMB,Login/Access,Medium,Email,2025-04-07,2025-04-10,3,Resolved
+T00442,C0128,Professional,SMB,Training,Low,Email,2025-03-27,2025-03-29,2,Resolved
+T00443,C0129,Enterprise,Growth,Bug/Defect,Medium,Email,2025-06-04,2025-06-07,3,Resolved
+T00444,C0129,Enterprise,Growth,Integration,Medium,Email,2025-01-10,2025-01-15,5,Resolved
+T00445,C0129,Enterprise,Growth,Integration,Medium,Email,2025-11-02,2025-11-06,4,Resolved
+T00446,C0130,Basic,SMB,Training,Medium,Email,2025-11-29,2025-12-01,2,Resolved
+T00447,C0130,Basic,SMB,Training,Low,In-App,2025-07-10,2025-07-12,2,Resolved
+T00448,C0130,Basic,SMB,Performance,Medium,In-App,2025-06-11,2025-06-15,4,Resolved
+T00449,C0130,Basic,SMB,AI Feature,Low,Chat,2025-05-13,2025-05-15,2,Resolved
+T00450,C0131,Enterprise,SMB,Billing,Low,In-App,2025-05-31,2025-06-03,3,Resolved
+T00451,C0131,Enterprise,SMB,Login/Access,High,Email,2025-08-05,2025-08-07,2,Resolved
+T00452,C0132,Enterprise,Growth,Bug/Defect,Low,Chat,2025-05-13,2025-05-16,3,Resolved
+T00453,C0132,Enterprise,Growth,Performance,Medium,Chat,2025-01-03,2025-01-07,4,Resolved
+T00454,C0132,Enterprise,Growth,AI Feature,Low,Email,2025-06-09,2025-06-11,2,Resolved
+T00455,C0132,Enterprise,Growth,Login/Access,Medium,In-App,2025-04-15,2025-04-17,2,Resolved
+T00456,C0133,Professional,SMB,Performance,Medium,Email,2025-11-20,2025-11-23,3,Resolved
+T00457,C0133,Professional,SMB,Billing,Low,Email,2025-04-25,2025-04-27,2,Resolved
+T00458,C0133,Professional,SMB,Billing,Low,In-App,2025-07-04,2025-07-06,2,Resolved
+T00459,C0134,Professional,SMB,AI Feature,Low,Email,2025-06-21,2025-06-23,2,Resolved
+T00460,C0134,Professional,SMB,Login/Access,Low,Phone,2025-11-24,2025-11-27,3,Resolved
+T00461,C0134,Professional,SMB,Performance,Urgent,Email,2025-05-17,2025-05-25,8,Resolved
+T00462,C0134,Professional,SMB,Performance,Medium,Email,2025-12-06,2025-12-10,4,Resolved
+T00463,C0135,Professional,Growth,Login/Access,Urgent,Email,2025-08-21,2025-08-25,4,Resolved
+T00464,C0135,Professional,Growth,Login/Access,High,In-App,2025-08-14,2025-08-16,2,Resolved
+T00465,C0135,Professional,Growth,Login/Access,Medium,In-App,2025-02-11,2025-02-13,2,Resolved
+T00466,C0135,Professional,Growth,Billing,High,Email,2025-06-08,2025-06-10,2,Resolved
+T00467,C0135,Professional,Growth,Permissions,Low,Email,2025-02-12,2025-02-13,1,Resolved
+T00468,C0136,Enterprise,SMB,Training,Medium,In-App,2025-08-23,2025-08-28,5,Resolved
+T00469,C0136,Enterprise,SMB,Training,Medium,Email,2025-11-14,2025-11-16,2,Resolved
+T00470,C0137,Enterprise,SMB,Performance,Medium,Email,2025-07-15,2025-07-18,3,Resolved
+T00471,C0137,Enterprise,SMB,Billing,Low,Phone,2025-10-18,2025-10-20,2,Resolved
+T00472,C0137,Enterprise,SMB,Billing,Low,Email,2025-03-19,2025-03-22,3,Resolved
+T00473,C0138,Basic,SMB,Bug/Defect,Urgent,Chat,2025-11-20,2025-11-28,8,Resolved
+T00474,C0139,Professional,SMB,Billing,High,In-App,2025-02-23,2025-02-26,3,Resolved
+T00475,C0140,Professional,Growth,Billing,Low,Email,2025-08-26,2025-08-27,1,Resolved
+T00476,C0140,Professional,Growth,Permissions,Low,In-App,2025-11-15,2025-11-17,2,Resolved
+T00477,C0141,Professional,SMB,AI Feature,Low,Email,2025-02-25,2025-03-01,4,Resolved
+T00478,C0141,Professional,SMB,AI Feature,Medium,Email,2025-07-19,2025-07-23,4,Resolved
+T00479,C0141,Professional,SMB,AI Feature,High,In-App,2025-08-25,2025-08-31,6,Resolved
+T00480,C0142,Enterprise,Growth,Bug/Defect,Medium,Email,2025-09-05,2025-09-11,6,Resolved
+T00481,C0142,Enterprise,Growth,Performance,Low,Email,2025-06-23,2025-06-25,2,Resolved
+T00482,C0142,Enterprise,Growth,Billing,Medium,Chat,2025-01-22,2025-01-24,2,Resolved
+T00483,C0143,Enterprise,Enterprise,Integration,Medium,In-App,2025-01-18,2025-01-22,4,Resolved
+T00484,C0143,Enterprise,Enterprise,Billing,Urgent,Email,2025-06-14,2025-06-18,4,Resolved
+T00485,C0143,Enterprise,Enterprise,Performance,Low,Chat,2025-01-25,2025-01-27,2,Resolved
+T00486,C0144,Professional,SMB,Performance,Low,Email,2025-01-30,2025-02-02,3,Resolved
+T00487,C0144,Professional,SMB,Integration,High,Chat,2025-06-06,2025-06-13,7,Resolved
+T00488,C0144,Professional,SMB,Training,Urgent,Email,2025-08-31,2025-09-05,5,Resolved
+T00489,C0145,Professional,Growth,Billing,Medium,Chat,2025-07-26,2025-07-28,2,Resolved
+T00490,C0145,Professional,Growth,Integration,Low,Email,2025-06-15,2025-06-20,5,Resolved
+T00491,C0145,Professional,Growth,Performance,Medium,Chat,2025-05-12,2025-05-16,4,Resolved
+T00492,C0145,Professional,Growth,Billing,Urgent,Chat,2025-01-23,2025-01-29,6,Resolved
+T00493,C0145,Professional,Growth,Login/Access,Low,In-App,2025-11-09,2025-11-10,1,Resolved
+T00494,C0145,Professional,Growth,Training,Medium,Chat,2025-05-13,2025-05-14,1,Resolved
+T00495,C0146,Basic,SMB,AI Feature,Medium,Phone,2025-10-02,2025-10-05,3,Resolved
+T00496,C0146,Basic,SMB,Login/Access,Medium,Chat,2025-03-28,2025-03-29,1,Resolved
+T00497,C0146,Basic,SMB,AI Feature,Medium,Email,2025-10-21,2025-10-25,4,Resolved
+T00498,C0147,Professional,SMB,Performance,Medium,Email,2025-03-17,2025-03-21,4,Resolved
+T00499,C0147,Professional,SMB,AI Feature,Medium,Email,2025-08-15,2025-08-20,5,Resolved
+T00500,C0147,Professional,SMB,AI Feature,Low,Phone,2025-03-05,2025-03-08,3,Resolved
+T00501,C0148,Enterprise,Enterprise,Training,High,Phone,2025-08-17,2025-08-18,1,Resolved
+T00502,C0148,Enterprise,Enterprise,Performance,Low,Email,2025-04-28,2025-05-02,4,Resolved
+T00503,C0148,Enterprise,Enterprise,Performance,High,Chat,2025-07-07,2025-07-11,4,Resolved
+T00504,C0148,Enterprise,Enterprise,AI Feature,Medium,Phone,2025-04-21,2025-04-23,2,Resolved
+T00505,C0148,Enterprise,Enterprise,Permissions,Medium,Email,2025-04-03,2025-04-05,2,Resolved
+T00506,C0148,Enterprise,Enterprise,Billing,Low,Phone,2025-01-30,2025-01-31,1,Resolved
+T00507,C0148,Enterprise,Enterprise,Permissions,High,In-App,2025-01-21,2025-01-23,2,Resolved
+T00508,C0148,Enterprise,Enterprise,Performance,Low,Phone,2025-08-24,2025-08-27,3,Resolved
+T00509,C0148,Enterprise,Enterprise,Billing,Medium,In-App,2025-01-02,2025-01-04,2,Resolved
+T00510,C0148,Enterprise,Enterprise,Login/Access,Medium,Email,2025-06-07,2025-06-08,1,Resolved
+T00511,C0149,Professional,Growth,Billing,Low,Email,2025-10-03,2025-10-06,3,Resolved
+T00512,C0150,Professional,SMB,Billing,Medium,Email,2025-06-08,2025-06-10,2,Resolved
+T00513,C0150,Professional,SMB,Permissions,Medium,Phone,2025-07-07,2025-07-09,2,Resolved
+T00514,C0151,Enterprise,SMB,Training,High,Chat,2025-02-04,2025-02-07,3,Resolved
+T00515,C0151,Enterprise,SMB,Training,Medium,Email,2025-07-27,2025-07-31,4,Resolved
+T00516,C0152,Basic,SMB,Login/Access,High,In-App,2025-03-02,2025-03-03,1,Resolved
+T00517,C0153,Professional,SMB,Training,High,Email,2025-04-28,2025-04-30,2,Resolved
+T00518,C0153,Professional,SMB,Integration,Low,Email,2025-01-01,2025-01-04,3,Resolved
+T00519,C0153,Professional,SMB,Login/Access,Low,Phone,2025-06-12,2025-06-12,0,Resolved
+T00520,C0154,Enterprise,Enterprise,Permissions,Low,Chat,2025-04-19,2025-04-22,3,Resolved
+T00521,C0154,Enterprise,Enterprise,Training,Low,Email,2025-07-08,2025-07-09,1,Resolved
+T00522,C0154,Enterprise,Enterprise,Permissions,Medium,Chat,2025-01-27,2025-01-30,3,Resolved
+T00523,C0154,Enterprise,Enterprise,Performance,Low,Chat,2025-09-14,2025-09-17,3,Resolved
+T00524,C0154,Enterprise,Enterprise,AI Feature,Urgent,Email,2025-05-07,2025-05-11,4,Resolved
+T00525,C0154,Enterprise,Enterprise,Login/Access,Low,Email,2025-11-23,2025-11-25,2,Resolved
+T00526,C0155,Professional,SMB,Login/Access,Low,Email,2025-09-10,2025-09-11,1,Resolved
+T00527,C0155,Professional,SMB,Performance,Medium,In-App,2025-09-22,2025-09-26,4,Resolved
+T00528,C0155,Professional,SMB,Login/Access,Low,Phone,2025-05-16,2025-05-17,1,Resolved
+T00529,C0155,Professional,SMB,Permissions,High,In-App,2025-07-02,2025-07-05,3,Resolved
+T00530,C0155,Professional,SMB,Login/Access,Low,Email,2025-11-20,2025-11-20,0,Resolved
+T00531,C0156,Professional,Growth,Integration,Medium,Chat,2025-12-06,2025-12-11,5,Resolved
+T00532,C0156,Professional,Growth,Training,Medium,Email,2025-07-25,2025-07-27,2,Resolved
+T00533,C0156,Professional,Growth,Integration,Low,Chat,2025-01-12,2025-01-17,5,Resolved
+T00534,C0156,Professional,Growth,Login/Access,High,In-App,2025-09-22,2025-09-25,3,Resolved
+T00535,C0156,Professional,Growth,Performance,Medium,Email,2025-03-24,2025-03-28,4,Resolved
+T00536,C0157,Professional,Enterprise,Login/Access,Low,Email,2025-02-09,2025-02-11,2,Resolved
+T00537,C0157,Professional,Enterprise,Integration,Medium,Email,2025-08-17,2025-08-21,4,Resolved
+T00538,C0157,Professional,Enterprise,Bug/Defect,Low,Email,2025-11-09,2025-11-13,4,Resolved
+T00539,C0157,Professional,Enterprise,Integration,High,Chat,2025-04-16,2025-04-20,4,Resolved
+T00540,C0158,Enterprise,SMB,Performance,Low,In-App,2025-06-14,2025-06-17,3,Resolved
+T00541,C0158,Enterprise,SMB,Bug/Defect,Low,Email,2025-04-06,2025-04-10,4,Resolved
+T00542,C0158,Enterprise,SMB,Login/Access,Medium,Email,2025-07-16,2025-07-18,2,Resolved
+T00543,C0158,Enterprise,SMB,Integration,Low,Email,2025-12-07,2025-12-10,3,Resolved
+T00544,C0158,Enterprise,SMB,Login/Access,Urgent,In-App,2025-09-23,2025-09-26,3,Resolved
+T00545,C0158,Enterprise,SMB,Training,Medium,Chat,2025-03-04,2025-03-06,2,Resolved
+T00546,C0159,Basic,SMB,Integration,Low,In-App,2025-06-18,2025-06-22,4,Resolved
+T00547,C0159,Basic,SMB,Integration,Low,Email,2025-10-19,2025-10-23,4,Resolved
+T00548,C0160,Professional,Enterprise,AI Feature,Low,Email,2025-08-11,2025-08-14,3,Resolved
+T00549,C0160,Professional,Enterprise,Training,Medium,In-App,2025-03-24,2025-03-27,3,Resolved
+T00550,C0160,Professional,Enterprise,Training,Medium,In-App,2025-06-19,2025-06-21,2,Resolved
+T00551,C0160,Professional,Enterprise,Permissions,Low,Email,2025-10-30,2025-10-31,1,Resolved
+T00552,C0161,Professional,SMB,Login/Access,Low,Email,2025-12-14,2025-12-17,3,Resolved
+T00553,C0162,Basic,SMB,Login/Access,Urgent,Phone,2025-07-04,2025-07-08,4,Resolved
+T00554,C0163,Basic,SMB,Integration,Low,Chat,2025-07-10,2025-07-15,5,Resolved
+T00555,C0163,Basic,SMB,Login/Access,Low,Email,2025-12-05,2025-12-07,2,Resolved
+T00556,C0164,Enterprise,Enterprise,Bug/Defect,Medium,Chat,2025-06-01,2025-06-05,4,Resolved
+T00557,C0164,Enterprise,Enterprise,Bug/Defect,Medium,Email,2025-01-24,2025-01-27,3,Resolved
+T00558,C0164,Enterprise,Enterprise,Login/Access,Low,Email,2025-11-25,2025-11-26,1,Resolved
+T00559,C0164,Enterprise,Enterprise,AI Feature,High,Email,2025-11-11,2025-11-16,5,Resolved
+T00560,C0164,Enterprise,Enterprise,Bug/Defect,Low,Email,2025-07-01,2025-07-04,3,Resolved
+T00561,C0164,Enterprise,Enterprise,Performance,High,In-App,2025-11-04,2025-11-08,4,Resolved
+T00562,C0165,Professional,SMB,Login/Access,Low,Email,2025-09-27,2025-09-29,2,Resolved
+T00563,C0165,Professional,SMB,AI Feature,Medium,In-App,2025-11-22,2025-11-26,4,Resolved
+T00564,C0165,Professional,SMB,Performance,Low,Email,2025-06-17,2025-06-21,4,Resolved
+T00565,C0166,Professional,Enterprise,Performance,Low,Email,2025-07-24,2025-07-26,2,Resolved
+T00566,C0166,Professional,Enterprise,Login/Access,Medium,Chat,2025-08-30,2025-08-31,1,Resolved
+T00567,C0166,Professional,Enterprise,Bug/Defect,Low,In-App,2025-09-10,2025-09-13,3,Resolved
+T00568,C0166,Professional,Enterprise,Bug/Defect,Medium,Phone,2025-05-28,2025-06-01,4,Resolved
+T00569,C0166,Professional,Enterprise,Bug/Defect,High,In-App,2025-06-30,2025-07-04,4,Resolved
+T00570,C0167,Professional,SMB,AI Feature,Urgent,Email,2025-03-12,2025-03-18,6,Resolved
+T00571,C0167,Professional,SMB,Login/Access,Medium,Phone,2025-08-15,2025-08-16,1,Resolved
+T00572,C0167,Professional,SMB,Permissions,Low,Email,2025-01-10,2025-01-12,2,Resolved
+T00573,C0168,Basic,SMB,Performance,Low,Chat,2025-06-03,2025-06-07,4,Resolved
+T00574,C0168,Basic,SMB,Bug/Defect,High,In-App,2025-07-02,2025-07-07,5,Resolved
+T00575,C0168,Basic,SMB,AI Feature,Low,In-App,2025-12-14,2025-12-16,2,Resolved
+T00576,C0168,Basic,SMB,Login/Access,Low,Email,2025-02-16,2025-02-16,0,Resolved
+T00577,C0169,Basic,SMB,Training,Low,Chat,2025-04-09,2025-04-10,1,Resolved
+T00578,C0169,Basic,SMB,Performance,Medium,Email,2025-10-27,2025-10-31,4,Resolved
+T00579,C0169,Basic,SMB,Login/Access,High,Phone,2025-05-29,2025-05-31,2,Resolved
+T00580,C0169,Basic,SMB,Performance,Urgent,Email,2025-10-13,2025-10-21,8,Resolved
+T00581,C0170,Basic,SMB,Performance,Low,Email,2025-06-03,2025-06-04,1,Resolved
+T00582,C0170,Basic,SMB,Integration,Low,Email,2025-01-03,2025-01-06,3,Resolved
+T00583,C0170,Basic,SMB,Bug/Defect,Low,In-App,2025-09-01,2025-09-04,3,Resolved
+T00584,C0171,Professional,SMB,Bug/Defect,Medium,In-App,2025-09-21,2025-09-25,4,Resolved
+T00585,C0171,Professional,SMB,Login/Access,Urgent,Chat,2025-04-13,2025-04-16,3,Resolved
+T00586,C0171,Professional,SMB,Login/Access,High,In-App,2025-11-23,2025-11-25,2,Resolved
+T00587,C0171,Professional,SMB,Login/Access,Low,Chat,2025-02-02,2025-02-02,0,Resolved
+T00588,C0172,Basic,Enterprise,Integration,Low,Phone,2025-10-03,2025-10-06,3,Resolved
+T00589,C0172,Basic,Enterprise,AI Feature,Medium,Email,2025-05-11,2025-05-14,3,Resolved
+T00590,C0172,Basic,Enterprise,Bug/Defect,High,Phone,2025-07-12,2025-07-17,5,Resolved
+T00591,C0173,Professional,SMB,AI Feature,Medium,Chat,2025-11-11,2025-11-15,4,Resolved
+T00592,C0173,Professional,SMB,Training,Medium,Chat,2025-07-15,2025-07-18,3,Resolved
+T00593,C0173,Professional,SMB,AI Feature,Medium,Email,2025-11-29,2025-12-01,2,Resolved
+T00594,C0174,Professional,Growth,Login/Access,High,Chat,2025-10-25,2025-10-27,2,Resolved
+T00595,C0174,Professional,Growth,AI Feature,High,Email,2025-12-04,2025-12-08,4,Resolved
+T00596,C0175,Enterprise,Enterprise,Performance,Medium,In-App,2025-07-18,2025-07-23,5,Resolved
+T00597,C0175,Enterprise,Enterprise,Bug/Defect,Medium,Email,2025-06-30,2025-07-04,4,Resolved
+T00598,C0175,Enterprise,Enterprise,Permissions,Urgent,Phone,2025-11-30,2025-12-04,4,Resolved
+T00599,C0175,Enterprise,Enterprise,Performance,Low,In-App,2025-10-09,2025-10-11,2,Resolved
+T00600,C0175,Enterprise,Enterprise,Bug/Defect,Low,Email,2025-09-24,2025-09-27,3,Resolved
+T00601,C0175,Enterprise,Enterprise,AI Feature,Low,Email,2025-05-12,2025-05-15,3,Resolved
+T00602,C0175,Enterprise,Enterprise,Login/Access,Low,In-App,2025-10-19,2025-10-21,2,Resolved
+T00603,C0175,Enterprise,Enterprise,Training,High,Email,2025-09-05,2025-09-08,3,Resolved
+T00604,C0175,Enterprise,Enterprise,Integration,High,In-App,2025-07-26,2025-08-01,6,Resolved
+T00605,C0175,Enterprise,Enterprise,Billing,Low,In-App,2025-05-27,2025-05-30,3,Resolved
+T00606,C0175,Enterprise,Enterprise,Login/Access,High,Chat,2025-06-17,2025-06-20,3,Resolved
+T00607,C0176,Professional,SMB,Integration,Medium,Email,2025-01-14,2025-01-18,4,Resolved
+T00608,C0176,Professional,SMB,Permissions,Medium,In-App,2025-10-06,2025-10-10,4,Resolved
+T00609,C0177,Professional,Growth,AI Feature,High,Email,2025-04-13,2025-04-19,6,Resolved
+T00610,C0177,Professional,Growth,Bug/Defect,Medium,Chat,2025-12-05,2025-12-09,4,Resolved
+T00611,C0177,Professional,Growth,Training,Low,Email,2025-11-06,2025-11-08,2,Resolved
+T00612,C0177,Professional,Growth,AI Feature,High,Email,2025-06-05,2025-06-10,5,Resolved
+T00613,C0177,Professional,Growth,Login/Access,High,Chat,2025-08-06,2025-08-09,3,Resolved
+T00614,C0177,Professional,Growth,Bug/Defect,High,Email,2025-05-20,2025-05-27,7,Resolved
+T00615,C0177,Professional,Growth,Training,Low,Chat,2025-01-22,2025-01-24,2,Resolved
+T00616,C0178,Enterprise,Enterprise,Login/Access,Low,Phone,2025-04-25,2025-04-27,2,Resolved
+T00617,C0178,Enterprise,Enterprise,AI Feature,Low,Email,2025-01-02,2025-01-05,3,Resolved
+T00618,C0178,Enterprise,Enterprise,Permissions,Low,Email,2025-06-24,2025-06-25,1,Resolved
+T00619,C0178,Enterprise,Enterprise,Billing,Low,In-App,2025-05-20,2025-05-21,1,Resolved
+T00620,C0178,Enterprise,Enterprise,Bug/Defect,Medium,In-App,2025-04-24,2025-04-28,4,Resolved
+T00621,C0179,Professional,SMB,Billing,Low,Phone,2025-06-26,2025-06-28,2,Resolved
+T00622,C0179,Professional,SMB,AI Feature,High,In-App,2025-08-05,2025-08-10,5,Resolved
+T00623,C0179,Professional,SMB,Bug/Defect,Medium,In-App,2025-02-19,2025-02-24,5,Resolved
+T00624,C0179,Professional,SMB,Permissions,Medium,Email,2025-03-08,2025-03-10,2,Resolved
+T00625,C0180,Enterprise,Enterprise,Login/Access,High,Email,2025-04-02,2025-04-04,2,Resolved
+T00626,C0180,Enterprise,Enterprise,Integration,Low,Chat,2025-10-07,2025-10-10,3,Resolved
+T00627,C0180,Enterprise,Enterprise,Login/Access,High,Email,2025-03-24,2025-03-27,3,Resolved
+T00628,C0180,Enterprise,Enterprise,Bug/Defect,Low,Email,2025-05-16,2025-05-19,3,Resolved
+T00629,C0180,Enterprise,Enterprise,Billing,Low,Email,2025-06-24,2025-06-26,2,Resolved
+T00630,C0181,Professional,SMB,Login/Access,Low,Phone,2025-02-25,2025-02-27,2,Resolved
+T00631,C0181,Professional,SMB,Performance,Low,Email,2025-04-29,2025-05-02,3,Resolved
+T00632,C0181,Professional,SMB,AI Feature,Medium,Email,2025-03-15,2025-03-18,3,Resolved
+T00633,C0181,Professional,SMB,Integration,Low,Chat,2025-09-30,2025-10-05,5,Resolved
+T00634,C0182,Enterprise,SMB,Performance,Low,Email,2025-11-02,2025-11-07,5,Resolved
+T00635,C0182,Enterprise,SMB,Billing,Medium,In-App,2025-02-01,2025-02-04,3,Resolved
+T00636,C0183,Professional,Growth,Integration,Urgent,In-App,2025-03-06,2025-03-15,9,Resolved
+T00637,C0183,Professional,Growth,Login/Access,Medium,Email,2025-10-02,2025-10-04,2,Resolved
+T00638,C0184,Enterprise,SMB,AI Feature,Low,Email,2025-07-08,2025-07-10,2,Resolved
+T00639,C0184,Enterprise,SMB,AI Feature,High,Email,2025-05-27,2025-06-01,5,Resolved
+T00640,C0184,Enterprise,SMB,Login/Access,Low,Email,2025-07-19,2025-07-21,2,Resolved
+T00641,C0184,Enterprise,SMB,AI Feature,Medium,Chat,2025-03-05,2025-03-10,5,Resolved
+T00642,C0184,Enterprise,SMB,Training,High,Chat,2025-09-21,2025-09-24,3,Resolved
+T00643,C0184,Enterprise,SMB,Bug/Defect,Urgent,In-App,2025-02-27,2025-03-06,7,Resolved
+T00644,C0185,Enterprise,Growth,Bug/Defect,Medium,Chat,2025-08-11,2025-08-15,4,Resolved
+T00645,C0185,Enterprise,Growth,Permissions,Low,Chat,2025-02-05,2025-02-07,2,Resolved
+T00646,C0185,Enterprise,Growth,Bug/Defect,Medium,In-App,2025-09-21,2025-09-25,4,Resolved
+T00647,C0185,Enterprise,Growth,Permissions,Low,Chat,2025-11-30,2025-12-03,3,Resolved
+T00648,C0186,Professional,SMB,Billing,Low,Chat,2025-10-04,2025-10-06,2,Resolved
+T00649,C0186,Professional,SMB,Login/Access,Medium,Email,2025-10-27,2025-10-29,2,Resolved
+T00650,C0186,Professional,SMB,Billing,Low,In-App,2025-11-01,2025-11-02,1,Resolved
+T00651,C0187,Basic,Growth,Training,Medium,Email,2025-06-17,2025-06-20,3,Resolved
+T00652,C0187,Basic,Growth,Permissions,Low,Phone,2025-04-02,2025-04-03,1,Resolved
+T00653,C0187,Basic,Growth,Login/Access,Low,Email,2025-05-29,2025-05-31,2,Resolved
+T00654,C0187,Basic,Growth,Integration,Medium,In-App,2025-10-02,2025-10-06,4,Resolved
+T00655,C0188,Basic,SMB,Permissions,Medium,Chat,2025-06-13,2025-06-18,5,Resolved
+T00656,C0188,Basic,SMB,Training,Low,Chat,2025-10-03,2025-10-03,0,Resolved
+T00657,C0188,Basic,SMB,Login/Access,High,Phone,2025-05-26,2025-05-28,2,Resolved
+T00658,C0188,Basic,SMB,Permissions,Urgent,Email,2025-03-20,2025-03-24,4,Resolved
+T00659,C0189,Professional,Growth,Performance,Low,Email,2025-01-04,2025-01-07,3,Resolved
+T00660,C0189,Professional,Growth,Performance,Medium,In-App,2025-01-09,2025-01-13,4,Resolved
+T00661,C0189,Professional,Growth,AI Feature,Low,Email,2025-04-06,2025-04-08,2,Resolved
+T00662,C0190,Enterprise,Enterprise,Login/Access,Low,Email,2025-03-13,2025-03-15,2,Resolved
+T00663,C0190,Enterprise,Enterprise,Performance,Urgent,Chat,2025-11-23,2025-11-29,6,Resolved
+T00664,C0190,Enterprise,Enterprise,AI Feature,Low,Email,2025-07-17,2025-07-20,3,Resolved
+T00665,C0190,Enterprise,Enterprise,AI Feature,Low,In-App,2025-10-06,2025-10-08,2,Resolved
+T00666,C0191,Professional,SMB,Performance,Medium,Email,2025-10-20,2025-10-25,5,Resolved
+T00667,C0191,Professional,SMB,AI Feature,Low,Email,2025-10-07,2025-10-08,1,Resolved
+T00668,C0191,Professional,SMB,AI Feature,Medium,Email,2025-11-22,2025-11-24,2,Resolved
+T00669,C0191,Professional,SMB,Integration,Medium,In-App,2025-12-10,2025-12-14,4,Resolved
+T00670,C0192,Basic,Growth,Integration,Medium,In-App,2025-01-14,2025-01-18,4,Resolved
+T00671,C0192,Basic,Growth,Performance,Urgent,In-App,2025-05-11,2025-05-18,7,Resolved
+T00672,C0193,Professional,Growth,Billing,Low,Email,2025-09-12,2025-09-14,2,Resolved
+T00673,C0193,Professional,Growth,Integration,Medium,In-App,2025-04-02,2025-04-07,5,Resolved
+T00674,C0193,Professional,Growth,AI Feature,Medium,Email,2025-03-18,2025-03-20,2,Resolved
+T00675,C0193,Professional,Growth,Login/Access,Medium,Email,2025-03-18,2025-03-19,1,Resolved
+T00676,C0193,Professional,Growth,Performance,Low,In-App,2025-11-27,2025-11-30,3,Resolved
+T00677,C0194,Enterprise,SMB,AI Feature,Low,Email,2025-10-12,2025-10-14,2,Resolved
+T00678,C0194,Enterprise,SMB,AI Feature,Low,Phone,2025-02-11,2025-02-13,2,Resolved
+T00679,C0194,Enterprise,SMB,AI Feature,Medium,Phone,2025-06-12,2025-06-14,2,Resolved
+T00680,C0195,Enterprise,Enterprise,Permissions,Low,Phone,2025-09-06,2025-09-07,1,Resolved
+T00681,C0195,Enterprise,Enterprise,Permissions,Low,Email,2025-10-21,2025-10-23,2,Resolved
+T00682,C0195,Enterprise,Enterprise,AI Feature,High,In-App,2025-08-19,2025-08-22,3,Resolved
+T00683,C0196,Professional,SMB,AI Feature,Low,Email,2025-05-30,2025-06-01,2,Resolved
+T00684,C0197,Basic,Growth,Training,Medium,Email,2025-02-19,2025-02-21,2,Resolved
+T00685,C0197,Basic,Growth,Bug/Defect,High,In-App,2025-08-30,2025-09-04,5,Resolved
+T00686,C0197,Basic,Growth,AI Feature,High,Email,2025-10-13,2025-10-17,4,Resolved
+T00687,C0198,Enterprise,Growth,Integration,Medium,In-App,2025-05-15,2025-05-20,5,Resolved
+T00688,C0198,Enterprise,Growth,Billing,High,Email,2025-08-18,2025-08-21,3,Resolved
+T00689,C0198,Enterprise,Growth,Billing,Medium,In-App,2025-09-18,2025-09-20,2,Resolved
+T00690,C0198,Enterprise,Growth,Bug/Defect,Medium,In-App,2025-10-16,2025-10-20,4,Resolved
+T00691,C0198,Enterprise,Growth,Login/Access,Medium,Email,2025-06-06,2025-06-08,2,Resolved
+T00692,C0199,Basic,SMB,AI Feature,Low,Email,2025-04-30,2025-05-03,3,Resolved
+T00693,C0199,Basic,SMB,Billing,Medium,Email,2025-03-16,2025-03-17,1,Resolved
+T00694,C0199,Basic,SMB,Login/Access,High,Email,2025-11-03,2025-11-06,3,Resolved
+T00695,C0200,Enterprise,Enterprise,Permissions,Urgent,Chat,2025-02-08,2025-02-11,3,Resolved
+T00696,C0200,Enterprise,Enterprise,Permissions,Urgent,Email,2025-01-24,2025-01-28,4,Resolved
+T00697,C0200,Enterprise,Enterprise,Integration,Low,In-App,2025-12-11,2025-12-13,2,Resolved
+T00698,C0200,Enterprise,Enterprise,Login/Access,Medium,Email,2025-04-06,2025-04-07,1,Resolved
+T00699,C0200,Enterprise,Enterprise,Login/Access,Urgent,Email,2025-12-11,2025-12-15,4,Resolved
+T00700,C0200,Enterprise,Enterprise,Login/Access,Low,Email,2025-07-01,2025-07-02,1,Resolved
+T00701,C0200,Enterprise,Enterprise,AI Feature,Medium,Email,2025-07-27,2025-07-29,2,Resolved
+T00702,C0201,Professional,SMB,Billing,Medium,Email,2025-06-03,2025-06-06,3,Resolved
+T00703,C0201,Professional,SMB,AI Feature,Urgent,Phone,2025-11-03,2025-11-09,6,Resolved
+T00704,C0202,Enterprise,Enterprise,Login/Access,Low,Email,2025-12-07,2025-12-08,1,Resolved
+T00705,C0202,Enterprise,Enterprise,Login/Access,Medium,Email,2025-02-15,2025-02-16,1,Resolved
+T00706,C0202,Enterprise,Enterprise,Integration,High,Email,2025-03-04,2025-03-09,5,Resolved
+T00707,C0202,Enterprise,Enterprise,Billing,Medium,Email,2025-05-23,2025-05-25,2,Resolved
+T00708,C0202,Enterprise,Enterprise,Integration,Low,Phone,2025-02-26,2025-03-01,3,Resolved
+T00709,C0202,Enterprise,Enterprise,AI Feature,Medium,Email,2025-10-10,2025-10-14,4,Resolved
+T00710,C0202,Enterprise,Enterprise,Training,Low,Email,2025-06-07,2025-06-08,1,Resolved
+T00711,C0202,Enterprise,Enterprise,Bug/Defect,High,Phone,2025-06-01,2025-06-06,5,Resolved
+T00712,C0202,Enterprise,Enterprise,AI Feature,High,In-App,2025-08-15,2025-08-20,5,Resolved
+T00713,C0203,Professional,SMB,Performance,Medium,Email,2025-01-22,2025-01-26,4,Resolved
+T00714,C0203,Professional,SMB,Bug/Defect,Medium,Chat,2025-05-17,2025-05-19,2,Resolved
+T00715,C0203,Professional,SMB,Training,Low,Phone,2025-09-19,2025-09-21,2,Resolved
+T00716,C0203,Professional,SMB,Billing,Low,Email,2025-06-17,2025-06-17,0,Resolved
+T00717,C0204,Enterprise,Growth,Permissions,Medium,In-App,2025-06-20,2025-06-24,4,Resolved
+T00718,C0204,Enterprise,Growth,Bug/Defect,Low,Phone,2025-06-06,2025-06-09,3,Resolved
+T00719,C0205,Enterprise,Enterprise,Bug/Defect,Urgent,Chat,2025-09-20,2025-09-26,6,Resolved
+T00720,C0205,Enterprise,Enterprise,Login/Access,High,Email,2025-02-26,2025-03-01,3,Resolved
+T00721,C0205,Enterprise,Enterprise,Bug/Defect,Low,Email,2025-05-21,2025-05-24,3,Resolved
+T00722,C0205,Enterprise,Enterprise,Login/Access,Low,Email,2025-08-14,2025-08-15,1,Resolved
+T00723,C0205,Enterprise,Enterprise,Performance,Low,In-App,2025-02-28,2025-03-03,3,Resolved
+T00724,C0206,Professional,SMB,Training,Low,In-App,2025-05-09,2025-05-10,1,Resolved
+T00725,C0206,Professional,SMB,AI Feature,Medium,Email,2025-08-22,2025-08-26,4,Resolved
+T00726,C0207,Basic,SMB,Training,High,Email,2025-03-03,2025-03-06,3,Resolved
+T00727,C0208,Basic,Growth,Integration,Medium,In-App,2025-04-27,2025-05-02,5,Resolved
+T00728,C0208,Basic,Growth,Integration,Medium,In-App,2025-08-27,2025-09-02,6,Resolved
+T00729,C0209,Enterprise,Enterprise,Bug/Defect,Low,Chat,2025-01-18,2025-01-21,3,Resolved
+T00730,C0209,Enterprise,Enterprise,AI Feature,Low,Chat,2025-09-11,2025-09-13,2,Resolved
+T00731,C0209,Enterprise,Enterprise,AI Feature,High,Email,2025-10-30,2025-11-02,3,Resolved
+T00732,C0209,Enterprise,Enterprise,Integration,Medium,Phone,2025-07-25,2025-07-30,5,Resolved
+T00733,C0210,Professional,SMB,Bug/Defect,Medium,Phone,2025-08-01,2025-08-06,5,Resolved
+T00734,C0211,Professional,Enterprise,AI Feature,High,Phone,2025-02-23,2025-02-28,5,Resolved
+T00735,C0211,Professional,Enterprise,Performance,Medium,In-App,2025-02-19,2025-02-22,3,Resolved
+T00736,C0211,Professional,Enterprise,AI Feature,High,Chat,2025-06-27,2025-07-01,4,Resolved
+T00737,C0211,Professional,Enterprise,Integration,Medium,Email,2025-01-19,2025-01-24,5,Resolved
+T00738,C0212,Enterprise,Enterprise,Billing,Low,In-App,2025-05-14,2025-05-16,2,Resolved
+T00739,C0212,Enterprise,Enterprise,AI Feature,Low,In-App,2025-04-25,2025-04-28,3,Resolved
+T00740,C0212,Enterprise,Enterprise,Performance,Low,Phone,2025-06-02,2025-06-05,3,Resolved
+T00741,C0212,Enterprise,Enterprise,AI Feature,Low,In-App,2025-08-11,2025-08-13,2,Resolved
+T00742,C0213,Professional,Growth,AI Feature,Medium,Email,2025-04-08,2025-04-11,3,Resolved
+T00743,C0214,Basic,SMB,AI Feature,Medium,In-App,2025-11-04,2025-11-07,3,Resolved
+T00744,C0214,Basic,SMB,Permissions,Low,Chat,2025-12-01,2025-12-03,2,Resolved
+T00745,C0215,Basic,SMB,Performance,Urgent,In-App,2025-08-25,2025-09-02,8,Resolved
+T00746,C0215,Basic,SMB,Login/Access,Medium,In-App,2025-11-09,2025-11-10,1,Resolved
+T00747,C0215,Basic,SMB,Bug/Defect,Low,Email,2025-02-28,2025-03-02,2,Resolved
+T00748,C0216,Basic,Growth,Login/Access,Medium,In-App,2025-01-25,2025-01-27,2,Resolved
+T00749,C0216,Basic,Growth,Integration,Medium,Email,2025-02-03,2025-02-07,4,Resolved
+T00750,C0216,Basic,Growth,Login/Access,Low,Chat,2025-11-04,2025-11-04,0,Resolved
+T00751,C0216,Basic,Growth,Performance,Medium,Chat,2025-03-22,2025-03-26,4,Resolved
+T00752,C0217,Basic,SMB,AI Feature,Low,In-App,2025-03-08,2025-03-10,2,Resolved
+T00753,C0217,Basic,SMB,AI Feature,Low,In-App,2025-01-30,2025-02-01,2,Resolved
+T00754,C0218,Basic,Growth,Login/Access,Urgent,In-App,2025-03-06,2025-03-10,4,Resolved
+T00755,C0218,Basic,Growth,Login/Access,Low,Email,2025-10-14,2025-10-15,1,Resolved
+T00756,C0218,Basic,Growth,Performance,Low,In-App,2025-03-18,2025-03-21,3,Resolved
+T00757,C0219,Professional,Growth,Permissions,Low,Chat,2025-05-19,2025-05-20,1,Resolved
+T00758,C0219,Professional,Growth,Billing,Medium,Chat,2025-09-27,2025-09-29,2,Resolved
+T00759,C0219,Professional,Growth,Performance,High,Chat,2025-02-16,2025-02-21,5,Resolved
+T00760,C0220,Professional,Growth,Training,Low,Chat,2025-06-15,2025-06-16,1,Resolved
+T00761,C0220,Professional,Growth,Billing,High,Email,2025-04-08,2025-04-11,3,Resolved
+T00762,C0220,Professional,Growth,AI Feature,High,Email,2025-02-22,2025-02-27,5,Resolved
+T00763,C0221,Enterprise,Growth,AI Feature,Urgent,Email,2025-07-21,2025-07-27,6,Resolved
+T00764,C0222,Basic,Growth,Integration,High,In-App,2025-11-30,2025-12-06,6,Resolved
+T00765,C0222,Basic,Growth,AI Feature,High,Chat,2025-01-10,2025-01-14,4,Resolved
+T00766,C0222,Basic,Growth,Bug/Defect,Low,Email,2025-09-21,2025-09-25,4,Resolved
+T00767,C0223,Enterprise,Enterprise,Bug/Defect,Low,Chat,2025-12-03,2025-12-05,2,Resolved
+T00768,C0223,Enterprise,Enterprise,Performance,Low,Chat,2025-01-03,2025-01-06,3,Resolved
+T00769,C0224,Professional,SMB,Bug/Defect,Low,Phone,2025-11-11,2025-11-15,4,Resolved
+T00770,C0225,Professional,SMB,Login/Access,Low,In-App,2025-07-30,2025-07-31,1,Resolved
+T00771,C0225,Professional,SMB,AI Feature,Medium,In-App,2025-12-14,2025-12-17,3,Resolved
+T00772,C0226,Basic,SMB,AI Feature,Medium,Phone,2025-07-05,2025-07-09,4,Resolved
+T00773,C0226,Basic,SMB,Login/Access,Low,In-App,2025-03-04,2025-03-05,1,Resolved
+T00774,C0226,Basic,SMB,Performance,Medium,Chat,2025-04-30,2025-05-04,4,Resolved
+T00775,C0226,Basic,SMB,Bug/Defect,Low,In-App,2025-06-04,2025-06-08,4,Resolved
+T00776,C0227,Enterprise,SMB,Bug/Defect,Medium,Chat,2025-11-22,2025-11-27,5,Resolved
+T00777,C0227,Enterprise,SMB,Training,Low,Email,2025-11-06,2025-11-08,2,Resolved
+T00778,C0227,Enterprise,SMB,Bug/Defect,High,Phone,2025-07-11,2025-07-18,7,Resolved
+T00779,C0228,Professional,Growth,Permissions,Low,In-App,2025-01-10,2025-01-13,3,Resolved
+T00780,C0228,Professional,Growth,Login/Access,Low,In-App,2025-10-20,2025-10-22,2,Resolved
+T00781,C0228,Professional,Growth,Login/Access,Low,In-App,2025-01-30,2025-01-31,1,Resolved
+T00782,C0228,Professional,Growth,Permissions,High,Chat,2025-03-23,2025-03-27,4,Resolved
+T00783,C0228,Professional,Growth,Bug/Defect,Low,Email,2025-08-30,2025-09-02,3,Resolved
+T00784,C0229,Enterprise,SMB,Bug/Defect,Medium,Phone,2025-08-17,2025-08-22,5,Resolved
+T00785,C0229,Enterprise,SMB,AI Feature,Medium,Email,2025-09-21,2025-09-25,4,Resolved
+T00786,C0229,Enterprise,SMB,Permissions,Medium,Email,2025-07-08,2025-07-11,3,Resolved
+T00787,C0229,Enterprise,SMB,Performance,Low,Email,2025-01-13,2025-01-17,4,Resolved
+T00788,C0230,Enterprise,Enterprise,AI Feature,Low,In-App,2025-04-09,2025-04-12,3,Resolved
+T00789,C0230,Enterprise,Enterprise,Training,Low,Chat,2025-03-20,2025-03-21,1,Resolved
+T00790,C0230,Enterprise,Enterprise,Integration,Low,In-App,2025-01-10,2025-01-12,2,Resolved
+T00791,C0230,Enterprise,Enterprise,Bug/Defect,Low,Email,2025-10-14,2025-10-16,2,Resolved
+T00792,C0230,Enterprise,Enterprise,Billing,High,In-App,2025-09-08,2025-09-10,2,Resolved
+T00793,C0231,Basic,SMB,Integration,Medium,Email,2025-06-03,2025-06-08,5,Resolved
+T00794,C0231,Basic,SMB,Training,High,Chat,2025-09-21,2025-09-24,3,Resolved
+T00795,C0232,Basic,SMB,Integration,Medium,In-App,2025-07-11,2025-07-16,5,Resolved
+T00796,C0233,Professional,Enterprise,Bug/Defect,Low,Email,2025-11-16,2025-11-19,3,Resolved
+T00797,C0233,Professional,Enterprise,Training,Low,Email,2025-11-24,2025-11-26,2,Resolved
+T00798,C0234,Professional,Growth,Login/Access,Low,In-App,2025-09-27,2025-09-29,2,Resolved
+T00799,C0234,Professional,Growth,Billing,Medium,Email,2025-05-04,2025-05-06,2,Resolved
+T00800,C0234,Professional,Growth,Billing,Low,Email,2025-07-26,2025-07-28,2,Resolved
+T00801,C0234,Professional,Growth,Integration,High,Chat,2025-02-04,2025-02-12,8,Resolved
+T00802,C0235,Professional,SMB,Performance,High,Email,2025-05-10,2025-05-15,5,Resolved
+T00803,C0235,Professional,SMB,Integration,Low,Email,2025-02-23,2025-02-27,4,Resolved
+T00804,C0235,Professional,SMB,Login/Access,Medium,Email,2025-11-02,2025-11-03,1,Resolved
+T00805,C0236,Professional,Growth,Performance,Low,Chat,2025-07-18,2025-07-21,3,Resolved
+T00806,C0236,Professional,Growth,Performance,Medium,Email,2025-12-05,2025-12-09,4,Resolved
+T00807,C0237,Professional,Growth,Performance,Low,Chat,2025-09-12,2025-09-15,3,Resolved
+T00808,C0237,Professional,Growth,Integration,Urgent,Email,2025-05-27,2025-06-05,9,Resolved
+T00809,C0237,Professional,Growth,Billing,Medium,Phone,2025-11-08,2025-11-11,3,Resolved
+T00810,C0238,Basic,SMB,Integration,Medium,Email,2025-03-23,2025-03-27,4,Resolved
+T00811,C0238,Basic,SMB,Performance,Medium,Email,2025-08-13,2025-08-15,2,Resolved
+T00812,C0239,Enterprise,Growth,AI Feature,Medium,Chat,2025-10-16,2025-10-18,2,Resolved
+T00813,C0240,Professional,SMB,Bug/Defect,Low,Chat,2025-03-04,2025-03-08,4,Resolved
+T00814,C0240,Professional,SMB,AI Feature,Medium,Chat,2025-02-09,2025-02-11,2,Resolved
+T00815,C0240,Professional,SMB,Login/Access,Low,Email,2025-12-13,2025-12-14,1,Resolved
